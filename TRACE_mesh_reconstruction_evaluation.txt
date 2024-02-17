@@ -1,0 +1,1811 @@
+Method: TRACE
+Processing sequence: Date03_Sub04_backpack_back.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_backpack_back.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_backpack_back.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_backpack_back.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_chairblack.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_chairblack.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_chairblack.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_chairblack.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_boxmedium.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_boxmedium.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_boxmedium.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_boxmedium.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_keyboard_move.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_keyboard_move.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_keyboard_move.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_keyboard_move.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_tablesmall_hand.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_tablesmall_hand.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_tablesmall_hand.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_tablesmall_hand.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_stool_move.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_stool_move.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_stool_move.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_stool_move.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_stool.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_stool.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_stool.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_stool.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_toolbox.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_toolbox.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_toolbox.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_toolbox.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_basketball.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_basketball.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_basketball.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_basketball.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_chairblack_liftreal.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_chairblack_liftreal.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_chairblack_liftreal.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_chairblack_liftreal.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_yogamat.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_yogamat.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_yogamat.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_yogamat.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_boxtiny.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_boxtiny.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_boxtiny.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_boxtiny.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_keyboard_typing.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_keyboard_typing.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_keyboard_typing.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_keyboard_typing.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_yogaball_sit.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_yogaball_sit.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_yogaball_sit.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_yogaball_sit.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_chairblack_sit.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_chairblack_sit.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_chairblack_sit.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_chairblack_sit.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_stool_sit.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_stool_sit.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_stool_sit.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_stool_sit.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_chairblack_sitstand.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_chairblack_sitstand.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_chairblack_sitstand.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_chairblack_sitstand.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_chairwood_lift.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_chairwood_lift.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_chairwood_lift.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_chairwood_lift.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_boxmedium.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_boxmedium.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_boxmedium.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_boxmedium.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_boxlarge.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_boxlarge.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_boxlarge.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_boxlarge.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_suitcase_move.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_suitcase_move.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_suitcase_move.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_suitcase_move.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_backpack_hand.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_backpack_hand.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_backpack_hand.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_backpack_hand.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_trashbin.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_trashbin.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_trashbin.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_trashbin.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_boxmedium.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_boxmedium.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_boxmedium.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_boxmedium.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_monitor_move.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_monitor_move.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_monitor_move.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_monitor_move.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_chairwood.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_chairwood.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_chairwood.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_chairwood.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_monitor.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_monitor.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_monitor.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_monitor.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_keyboard.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_keyboard.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_keyboard.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_keyboard.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_chairwood_hand.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_chairwood_hand.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_chairwood_hand.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_chairwood_hand.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_basketball.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_basketball.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_basketball.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_basketball.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_trashbin.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_trashbin.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_trashbin.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_trashbin.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_tablesmall_move.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_tablesmall_move.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_tablesmall_move.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_tablesmall_move.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_chairwood_lift.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_chairwood_lift.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_chairwood_lift.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_chairwood_lift.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_tablesquare_sit.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_tablesquare_sit.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_tablesquare_sit.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_tablesquare_sit.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_chairwood_hand.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_chairwood_hand.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_chairwood_hand.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_chairwood_hand.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_stool_sit.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_stool_sit.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_stool_sit.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_stool_sit.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_chairblack_sit.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_chairblack_sit.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_chairblack_sit.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_chairblack_sit.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_yogamat.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_yogamat.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_yogamat.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_yogamat.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_suitcase.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_suitcase.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_suitcase.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_suitcase.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_tablesquare_hand.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_tablesquare_hand.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_tablesquare_hand.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_tablesquare_hand.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_yogaball_play.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_yogaball_play.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_yogaball_play.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_yogaball_play.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_boxsmall.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_boxsmall.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_boxsmall.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_boxsmall.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_tablesmall_lift.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_tablesmall_lift.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_tablesmall_lift.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_tablesmall_lift.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_chairwood_sit.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_chairwood_sit.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_chairwood_sit.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_chairwood_sit.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_boxtiny.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_boxtiny.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_boxtiny.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_boxtiny.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_tablesquare.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_tablesquare.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_tablesquare.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_tablesquare.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_toolbox.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_toolbox.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_toolbox.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_toolbox.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_boxsmall.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_boxsmall.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_boxsmall.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_boxsmall.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_backpack_back.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_backpack_back.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_backpack_back.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_backpack_back.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_keyboard_move.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_keyboard_move.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_keyboard_move.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_keyboard_move.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_monitor_hand.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_monitor_hand.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_monitor_hand.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_monitor_hand.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_tablesquare_lift.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_tablesquare_lift.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_tablesquare_lift.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_tablesquare_lift.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_basketball.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_basketball.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_basketball.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_basketball.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_backpack_hand.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_backpack_hand.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_backpack_hand.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_backpack_hand.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_yogaball_play.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_yogaball_play.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_yogaball_play.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_yogaball_play.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_boxlarge.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_boxlarge.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_boxlarge.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_boxlarge.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_yogamat.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_yogamat.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_yogamat.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_yogamat.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_suitcase_lift.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_suitcase_lift.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_suitcase_lift.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_suitcase_lift.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_chairblack_hand.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_chairblack_hand.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_chairblack_hand.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_chairblack_hand.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_tablesmall_lean.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_tablesmall_lean.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_tablesmall_lean.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_tablesmall_lean.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_suitcase_ground.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_suitcase_ground.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_suitcase_ground.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_suitcase_ground.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_backpack.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_backpack.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_backpack.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_backpack.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_toolbox.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_toolbox.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_toolbox.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_toolbox.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_stool_lift.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_stool_lift.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_stool_lift.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_stool_lift.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_boxlong.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_boxlong.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_boxlong.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_boxlong.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_keyboard_typing.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_keyboard_typing.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_keyboard_typing.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_keyboard_typing.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_monitor_move.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_monitor_move.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_monitor_move.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_monitor_move.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_plasticcontainer.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_plasticcontainer.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_plasticcontainer.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_plasticcontainer.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_plasticcontainer.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_plasticcontainer.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_plasticcontainer.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_plasticcontainer.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_tablesquare_lift.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_tablesquare_lift.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_tablesquare_lift.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_tablesquare_lift.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_chairblack_lift.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_chairblack_lift.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_chairblack_lift.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_chairblack_lift.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_yogaball.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_yogaball.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_yogaball.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_yogaball.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_chairblack_hand.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_chairblack_hand.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_chairblack_hand.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_chairblack_hand.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_boxlong.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_boxlong.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_boxlong.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_boxlong.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_suitcase_lift.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_suitcase_lift.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_suitcase_lift.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_suitcase_lift.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_trashbin.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_trashbin.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_trashbin.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_trashbin.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_plasticcontainer_lift.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_plasticcontainer_lift.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_plasticcontainer_lift.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_plasticcontainer_lift.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_boxsmall.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_boxsmall.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_boxsmall.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_boxsmall.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_backpack_hug.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_backpack_hug.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_backpack_hug.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_backpack_hug.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_boxlarge.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_boxlarge.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_boxlarge.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_boxlarge.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_boxtiny.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_boxtiny.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_boxtiny.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_boxtiny.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_tablesmall_lean.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_tablesmall_lean.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_tablesmall_lean.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_tablesmall_lean.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_tablesmall_lift.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_tablesmall_lift.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_tablesmall_lift.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_tablesmall_lift.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_tablesquare_sit.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_tablesquare_sit.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_tablesquare_sit.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_tablesquare_sit.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_yogaball_sit.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_yogaball_sit.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_yogaball_sit.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_yogaball_sit.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_tablesmall.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_tablesmall.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_tablesmall.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub05_tablesmall.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_tablesquare_move.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_tablesquare_move.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_tablesquare_move.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_tablesquare_move.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_chairwood_sit.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_chairwood_sit.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_chairwood_sit.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_chairwood_sit.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_boxlong.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_boxlong.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_boxlong.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub03_boxlong.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_backpack_hug.0.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_backpack_hug.1.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_backpack_hug.2.color_1fps_frames
+Warning: align using only smpl meshes!
+Method: TRACE
+Processing sequence: Date03_Sub04_backpack_hug.3.color_1fps_frames
+Warning: align using only smpl meshes!
+Average Chamfer distance per scene-camera:  {'Date03_Sub04_backpack_back.2.color_1fps_frames': '149.28', 'Date03_Sub04_backpack_back.3.color_1fps_frames': '120.69', 'Date03_Sub04_backpack_back.1.color_1fps_frames': '151.88', 'Date03_Sub04_backpack_back.0.color_1fps_frames': '138.67', 'Date03_Sub05_chairblack.1.color_1fps_frames': '366.13', 'Date03_Sub05_chairblack.2.color_1fps_frames': '380.46', 'Date03_Sub05_chairblack.3.color_1fps_frames': '268.90', 'Date03_Sub05_chairblack.0.color_1fps_frames': '322.44', 'Date03_Sub03_boxmedium.0.color_1fps_frames': '148.54', 'Date03_Sub03_boxmedium.2.color_1fps_frames': '146.17', 'Date03_Sub03_boxmedium.3.color_1fps_frames': '120.89', 'Date03_Sub03_boxmedium.1.color_1fps_frames': '147.28', 'Date03_Sub04_keyboard_move.0.color_1fps_frames': '135.21', 'Date03_Sub04_keyboard_move.2.color_1fps_frames': '146.23', 'Date03_Sub04_keyboard_move.1.color_1fps_frames': '147.28', 'Date03_Sub04_keyboard_move.3.color_1fps_frames': '121.19', 'Date03_Sub04_tablesmall_hand.1.color_1fps_frames': '160.96', 'Date03_Sub04_tablesmall_hand.0.color_1fps_frames': '143.09', 'Date03_Sub04_tablesmall_hand.3.color_1fps_frames': '123.61', 'Date03_Sub04_tablesmall_hand.2.color_1fps_frames': '158.46', 'Date03_Sub04_stool_move.1.color_1fps_frames': '159.44', 'Date03_Sub04_stool_move.0.color_1fps_frames': '138.20', 'Date03_Sub04_stool_move.3.color_1fps_frames': '121.65', 'Date03_Sub04_stool_move.2.color_1fps_frames': '161.31', 'Date03_Sub05_stool.1.color_1fps_frames': '211.15', 'Date03_Sub05_stool.3.color_1fps_frames': '160.30', 'Date03_Sub05_stool.2.color_1fps_frames': '207.87', 'Date03_Sub05_stool.0.color_1fps_frames': '175.07', 'Date03_Sub03_toolbox.0.color_1fps_frames': '136.44', 'Date03_Sub03_toolbox.1.color_1fps_frames': '137.12', 'Date03_Sub03_toolbox.2.color_1fps_frames': '136.05', 'Date03_Sub03_toolbox.3.color_1fps_frames': '120.53', 'Date03_Sub03_basketball.3.color_1fps_frames': '111.95', 'Date03_Sub03_basketball.2.color_1fps_frames': '141.66', 'Date03_Sub03_basketball.0.color_1fps_frames': '142.23', 'Date03_Sub03_basketball.1.color_1fps_frames': '142.64', 'Date03_Sub04_chairblack_liftreal.1.color_1fps_frames': '152.40', 'Date03_Sub04_chairblack_liftreal.0.color_1fps_frames': '136.54', 'Date03_Sub04_chairblack_liftreal.2.color_1fps_frames': '150.94', 'Date03_Sub04_chairblack_liftreal.3.color_1fps_frames': '120.12', 'Date03_Sub04_yogamat.2.color_1fps_frames': '152.85', 'Date03_Sub04_yogamat.0.color_1fps_frames': '132.61', 'Date03_Sub04_yogamat.1.color_1fps_frames': '151.90', 'Date03_Sub04_yogamat.3.color_1fps_frames': '117.29', 'Date03_Sub03_boxtiny.0.color_1fps_frames': '147.52', 'Date03_Sub03_boxtiny.2.color_1fps_frames': '146.65', 'Date03_Sub03_boxtiny.1.color_1fps_frames': '146.38', 'Date03_Sub03_boxtiny.3.color_1fps_frames': '112.54', 'Date03_Sub04_keyboard_typing.1.color_1fps_frames': '138.61', 'Date03_Sub04_keyboard_typing.2.color_1fps_frames': '155.17', 'Date03_Sub04_keyboard_typing.3.color_1fps_frames': '122.38', 'Date03_Sub04_keyboard_typing.0.color_1fps_frames': '131.33', 'Date03_Sub04_yogaball_sit.2.color_1fps_frames': '153.87', 'Date03_Sub04_yogaball_sit.3.color_1fps_frames': '122.00', 'Date03_Sub04_yogaball_sit.1.color_1fps_frames': '152.20', 'Date03_Sub04_yogaball_sit.0.color_1fps_frames': '138.52', 'Date03_Sub04_chairblack_sit.3.color_1fps_frames': '119.38', 'Date03_Sub04_chairblack_sit.2.color_1fps_frames': '137.87', 'Date03_Sub04_chairblack_sit.1.color_1fps_frames': '138.97', 'Date03_Sub04_chairblack_sit.0.color_1fps_frames': '136.64', 'Date03_Sub03_stool_sit.3.color_1fps_frames': '127.40', 'Date03_Sub03_stool_sit.2.color_1fps_frames': '163.70', 'Date03_Sub03_stool_sit.1.color_1fps_frames': '165.89', 'Date03_Sub03_stool_sit.0.color_1fps_frames': '163.95', 'Date03_Sub03_chairblack_sitstand.3.color_1fps_frames': '50.43', 'Date03_Sub03_chairblack_sitstand.1.color_1fps_frames': '54.47', 'Date03_Sub03_chairblack_sitstand.0.color_1fps_frames': '54.17', 'Date03_Sub03_chairblack_sitstand.2.color_1fps_frames': '54.04', 'Date03_Sub04_chairwood_lift.1.color_1fps_frames': '156.78', 'Date03_Sub04_chairwood_lift.0.color_1fps_frames': '138.08', 'Date03_Sub04_chairwood_lift.3.color_1fps_frames': '121.90', 'Date03_Sub04_chairwood_lift.2.color_1fps_frames': '159.13', 'Date03_Sub04_boxmedium.3.color_1fps_frames': '124.09', 'Date03_Sub04_boxmedium.1.color_1fps_frames': '158.83', 'Date03_Sub04_boxmedium.0.color_1fps_frames': '138.51', 'Date03_Sub04_boxmedium.2.color_1fps_frames': '158.66', 'Date03_Sub04_boxlarge.1.color_1fps_frames': '143.98', 'Date03_Sub04_boxlarge.0.color_1fps_frames': '135.97', 'Date03_Sub04_boxlarge.2.color_1fps_frames': '141.26', 'Date03_Sub04_boxlarge.3.color_1fps_frames': '118.85', 'Date03_Sub03_suitcase_move.1.color_1fps_frames': '151.71', 'Date03_Sub03_suitcase_move.3.color_1fps_frames': '115.57', 'Date03_Sub03_suitcase_move.2.color_1fps_frames': '153.42', 'Date03_Sub03_suitcase_move.0.color_1fps_frames': '151.54', 'Date03_Sub04_backpack_hand.3.color_1fps_frames': '121.40', 'Date03_Sub04_backpack_hand.2.color_1fps_frames': '149.08', 'Date03_Sub04_backpack_hand.0.color_1fps_frames': '138.78', 'Date03_Sub04_backpack_hand.1.color_1fps_frames': '150.58', 'Date03_Sub03_trashbin.2.color_1fps_frames': '123.07', 'Date03_Sub03_trashbin.0.color_1fps_frames': '123.57', 'Date03_Sub03_trashbin.1.color_1fps_frames': '123.22', 'Date03_Sub03_trashbin.3.color_1fps_frames': '116.05', 'Date03_Sub05_boxmedium.2.color_1fps_frames': '149.70', 'Date03_Sub05_boxmedium.1.color_1fps_frames': '150.06', 'Date03_Sub05_boxmedium.3.color_1fps_frames': '118.32', 'Date03_Sub05_boxmedium.0.color_1fps_frames': '132.97', 'Date03_Sub03_monitor_move.3.color_1fps_frames': '98.23', 'Date03_Sub03_monitor_move.1.color_1fps_frames': '120.95', 'Date03_Sub03_monitor_move.0.color_1fps_frames': '116.56', 'Date03_Sub03_monitor_move.2.color_1fps_frames': '117.33', 'Date03_Sub05_chairwood.0.color_1fps_frames': '342.91', 'Date03_Sub05_chairwood.2.color_1fps_frames': '393.60', 'Date03_Sub05_chairwood.1.color_1fps_frames': '384.67', 'Date03_Sub05_chairwood.3.color_1fps_frames': '303.50', 'Date03_Sub05_monitor.3.color_1fps_frames': '142.46', 'Date03_Sub05_monitor.1.color_1fps_frames': '173.92', 'Date03_Sub05_monitor.2.color_1fps_frames': '176.78', 'Date03_Sub05_monitor.0.color_1fps_frames': '163.45', 'Date03_Sub05_keyboard.3.color_1fps_frames': '165.50', 'Date03_Sub05_keyboard.0.color_1fps_frames': '189.61', 'Date03_Sub05_keyboard.2.color_1fps_frames': '215.64', 'Date03_Sub05_keyboard.1.color_1fps_frames': '220.42', 'Date03_Sub04_chairwood_hand.1.color_1fps_frames': '154.11', 'Date03_Sub04_chairwood_hand.0.color_1fps_frames': '134.96', 'Date03_Sub04_chairwood_hand.3.color_1fps_frames': '116.48', 'Date03_Sub04_chairwood_hand.2.color_1fps_frames': '150.17', 'Date03_Sub05_basketball.0.color_1fps_frames': '128.06', 'Date03_Sub05_basketball.1.color_1fps_frames': '147.37', 'Date03_Sub05_basketball.2.color_1fps_frames': '146.36', 'Date03_Sub05_basketball.3.color_1fps_frames': '112.34', 'Date03_Sub04_trashbin.3.color_1fps_frames': '103.99', 'Date03_Sub04_trashbin.1.color_1fps_frames': '127.58', 'Date03_Sub04_trashbin.0.color_1fps_frames': '126.96', 'Date03_Sub04_trashbin.2.color_1fps_frames': '125.78', 'Date03_Sub03_tablesmall_move.0.color_1fps_frames': '134.81', 'Date03_Sub03_tablesmall_move.2.color_1fps_frames': '137.30', 'Date03_Sub03_tablesmall_move.3.color_1fps_frames': '115.61', 'Date03_Sub03_tablesmall_move.1.color_1fps_frames': '135.22', 'Date03_Sub03_chairwood_lift.2.color_1fps_frames': '139.82', 'Date03_Sub03_chairwood_lift.3.color_1fps_frames': '110.70', 'Date03_Sub03_chairwood_lift.1.color_1fps_frames': '141.38', 'Date03_Sub03_chairwood_lift.0.color_1fps_frames': '142.00', 'Date03_Sub04_tablesquare_sit.0.color_1fps_frames': '135.92', 'Date03_Sub04_tablesquare_sit.1.color_1fps_frames': '152.93', 'Date03_Sub04_tablesquare_sit.3.color_1fps_frames': '103.82', 'Date03_Sub04_tablesquare_sit.2.color_1fps_frames': '152.53', 'Date03_Sub03_chairwood_hand.0.color_1fps_frames': '141.64', 'Date03_Sub03_chairwood_hand.3.color_1fps_frames': '108.76', 'Date03_Sub03_chairwood_hand.1.color_1fps_frames': '142.55', 'Date03_Sub03_chairwood_hand.2.color_1fps_frames': '142.66', 'Date03_Sub04_stool_sit.3.color_1fps_frames': '122.77', 'Date03_Sub04_stool_sit.1.color_1fps_frames': '138.88', 'Date03_Sub04_stool_sit.0.color_1fps_frames': '137.18', 'Date03_Sub04_stool_sit.2.color_1fps_frames': '157.30', 'Date03_Sub03_chairblack_sit.3.color_1fps_frames': '136.54', 'Date03_Sub03_chairblack_sit.2.color_1fps_frames': '165.77', 'Date03_Sub03_chairblack_sit.1.color_1fps_frames': '167.31', 'Date03_Sub03_chairblack_sit.0.color_1fps_frames': '165.77', 'Date03_Sub05_yogamat.1.color_1fps_frames': '157.47', 'Date03_Sub05_yogamat.0.color_1fps_frames': '137.11', 'Date03_Sub05_yogamat.3.color_1fps_frames': '119.57', 'Date03_Sub05_yogamat.2.color_1fps_frames': '153.63', 'Date03_Sub05_suitcase.3.color_1fps_frames': '162.51', 'Date03_Sub05_suitcase.0.color_1fps_frames': '181.16', 'Date03_Sub05_suitcase.1.color_1fps_frames': '210.73', 'Date03_Sub05_suitcase.2.color_1fps_frames': '208.98', 'Date03_Sub04_tablesquare_hand.2.color_1fps_frames': '160.02', 'Date03_Sub04_tablesquare_hand.1.color_1fps_frames': '161.34', 'Date03_Sub04_tablesquare_hand.0.color_1fps_frames': '142.48', 'Date03_Sub04_tablesquare_hand.3.color_1fps_frames': '124.80', 'Date03_Sub03_yogaball_play.2.color_1fps_frames': '139.38', 'Date03_Sub03_yogaball_play.1.color_1fps_frames': '138.61', 'Date03_Sub03_yogaball_play.0.color_1fps_frames': '138.73', 'Date03_Sub03_yogaball_play.3.color_1fps_frames': '113.41', 'Date03_Sub04_boxsmall.0.color_1fps_frames': '137.16', 'Date03_Sub04_boxsmall.2.color_1fps_frames': '141.46', 'Date03_Sub04_boxsmall.1.color_1fps_frames': '143.84', 'Date03_Sub04_boxsmall.3.color_1fps_frames': '120.25', 'Date03_Sub04_tablesmall_lift.3.color_1fps_frames': '108.64', 'Date03_Sub04_tablesmall_lift.1.color_1fps_frames': '159.97', 'Date03_Sub04_tablesmall_lift.2.color_1fps_frames': '158.48', 'Date03_Sub04_tablesmall_lift.0.color_1fps_frames': '141.35', 'Date03_Sub04_chairwood_sit.2.color_1fps_frames': '133.87', 'Date03_Sub04_chairwood_sit.0.color_1fps_frames': '128.44', 'Date03_Sub04_chairwood_sit.1.color_1fps_frames': '135.26', 'Date03_Sub04_chairwood_sit.3.color_1fps_frames': '113.63', 'Date03_Sub05_boxtiny.0.color_1fps_frames': '129.42', 'Date03_Sub05_boxtiny.3.color_1fps_frames': '114.30', 'Date03_Sub05_boxtiny.1.color_1fps_frames': '150.11', 'Date03_Sub05_boxtiny.2.color_1fps_frames': '149.72', 'Date03_Sub05_tablesquare.2.color_1fps_frames': '427.64', 'Date03_Sub05_tablesquare.0.color_1fps_frames': '359.38', 'Date03_Sub05_tablesquare.3.color_1fps_frames': '320.39', 'Date03_Sub05_tablesquare.1.color_1fps_frames': '428.67', 'Date03_Sub04_toolbox.3.color_1fps_frames': '119.97', 'Date03_Sub04_toolbox.1.color_1fps_frames': '157.95', 'Date03_Sub04_toolbox.2.color_1fps_frames': '156.72', 'Date03_Sub04_toolbox.0.color_1fps_frames': '137.68', 'Date03_Sub05_boxsmall.2.color_1fps_frames': '152.32', 'Date03_Sub05_boxsmall.3.color_1fps_frames': '116.12', 'Date03_Sub05_boxsmall.1.color_1fps_frames': '153.93', 'Date03_Sub05_boxsmall.0.color_1fps_frames': '131.87', 'Date03_Sub03_backpack_back.0.color_1fps_frames': '138.05', 'Date03_Sub03_backpack_back.3.color_1fps_frames': '114.59', 'Date03_Sub03_backpack_back.1.color_1fps_frames': '137.02', 'Date03_Sub03_backpack_back.2.color_1fps_frames': '138.98', 'Date03_Sub03_keyboard_move.2.color_1fps_frames': '143.18', 'Date03_Sub03_keyboard_move.0.color_1fps_frames': '139.56', 'Date03_Sub03_keyboard_move.3.color_1fps_frames': '108.01', 'Date03_Sub03_keyboard_move.1.color_1fps_frames': '139.62', 'Date03_Sub04_monitor_hand.1.color_1fps_frames': '173.04', 'Date03_Sub04_monitor_hand.0.color_1fps_frames': '141.91', 'Date03_Sub04_monitor_hand.3.color_1fps_frames': '126.77', 'Date03_Sub04_monitor_hand.2.color_1fps_frames': '156.01', 'Date03_Sub04_tablesquare_lift.2.color_1fps_frames': '148.90', 'Date03_Sub04_tablesquare_lift.3.color_1fps_frames': '117.87', 'Date03_Sub04_tablesquare_lift.1.color_1fps_frames': '150.93', 'Date03_Sub04_tablesquare_lift.0.color_1fps_frames': '132.61', 'Date03_Sub04_basketball.0.color_1fps_frames': '137.26', 'Date03_Sub04_basketball.3.color_1fps_frames': '121.08', 'Date03_Sub04_basketball.2.color_1fps_frames': '156.65', 'Date03_Sub04_basketball.1.color_1fps_frames': '157.48', 'Date03_Sub03_backpack_hand.2.color_1fps_frames': '144.05', 'Date03_Sub03_backpack_hand.1.color_1fps_frames': '144.20', 'Date03_Sub03_backpack_hand.3.color_1fps_frames': '117.39', 'Date03_Sub03_backpack_hand.0.color_1fps_frames': '145.42', 'Date03_Sub04_yogaball_play.2.color_1fps_frames': '74.79', 'Date03_Sub04_yogaball_play.3.color_1fps_frames': '75.66', 'Date03_Sub04_yogaball_play.1.color_1fps_frames': '75.39', 'Date03_Sub04_yogaball_play.0.color_1fps_frames': '76.74', 'Date03_Sub03_boxlarge.0.color_1fps_frames': '135.03', 'Date03_Sub03_boxlarge.3.color_1fps_frames': '106.40', 'Date03_Sub03_boxlarge.1.color_1fps_frames': '136.09', 'Date03_Sub03_boxlarge.2.color_1fps_frames': '134.68', 'Date03_Sub03_yogamat.0.color_1fps_frames': '149.05', 'Date03_Sub03_yogamat.2.color_1fps_frames': '148.70', 'Date03_Sub03_yogamat.1.color_1fps_frames': '152.57', 'Date03_Sub03_yogamat.3.color_1fps_frames': '118.53', 'Date03_Sub04_suitcase_lift.0.color_1fps_frames': '138.72', 'Date03_Sub04_suitcase_lift.1.color_1fps_frames': '153.31', 'Date03_Sub04_suitcase_lift.2.color_1fps_frames': '152.59', 'Date03_Sub04_suitcase_lift.3.color_1fps_frames': '97.23', 'Date03_Sub03_chairblack_hand.0.color_1fps_frames': '146.24', 'Date03_Sub03_chairblack_hand.2.color_1fps_frames': '146.54', 'Date03_Sub03_chairblack_hand.3.color_1fps_frames': '116.61', 'Date03_Sub03_chairblack_hand.1.color_1fps_frames': '146.72', 'Date03_Sub03_tablesmall_lean.3.color_1fps_frames': '126.65', 'Date03_Sub03_tablesmall_lean.1.color_1fps_frames': '155.45', 'Date03_Sub03_tablesmall_lean.0.color_1fps_frames': '154.57', 'Date03_Sub03_tablesmall_lean.2.color_1fps_frames': '154.97', 'Date03_Sub04_suitcase_ground.1.color_1fps_frames': '154.25', 'Date03_Sub04_suitcase_ground.2.color_1fps_frames': '155.88', 'Date03_Sub04_suitcase_ground.0.color_1fps_frames': '135.19', 'Date03_Sub04_suitcase_ground.3.color_1fps_frames': '121.73', 'Date03_Sub05_backpack.0.color_1fps_frames': '343.72', 'Date03_Sub05_backpack.1.color_1fps_frames': '408.38', 'Date03_Sub05_backpack.2.color_1fps_frames': '405.10', 'Date03_Sub05_backpack.3.color_1fps_frames': '279.85', 'Date03_Sub05_toolbox.2.color_1fps_frames': '149.92', 'Date03_Sub05_toolbox.1.color_1fps_frames': '151.94', 'Date03_Sub05_toolbox.0.color_1fps_frames': '141.94', 'Date03_Sub05_toolbox.3.color_1fps_frames': '124.32', 'Date03_Sub03_stool_lift.3.color_1fps_frames': '119.55', 'Date03_Sub03_stool_lift.2.color_1fps_frames': '154.75', 'Date03_Sub03_stool_lift.0.color_1fps_frames': '155.64', 'Date03_Sub03_stool_lift.1.color_1fps_frames': '158.06', 'Date03_Sub04_boxlong.1.color_1fps_frames': '165.31', 'Date03_Sub04_boxlong.0.color_1fps_frames': '141.38', 'Date03_Sub04_boxlong.3.color_1fps_frames': '123.70', 'Date03_Sub04_boxlong.2.color_1fps_frames': '164.23', 'Date03_Sub03_keyboard_typing.3.color_1fps_frames': '121.33', 'Date03_Sub03_keyboard_typing.2.color_1fps_frames': '155.85', 'Date03_Sub03_keyboard_typing.1.color_1fps_frames': '157.50', 'Date03_Sub03_keyboard_typing.0.color_1fps_frames': '155.15', 'Date03_Sub04_monitor_move.3.color_1fps_frames': '126.24', 'Date03_Sub04_monitor_move.2.color_1fps_frames': '155.63', 'Date03_Sub04_monitor_move.1.color_1fps_frames': '157.29', 'Date03_Sub04_monitor_move.0.color_1fps_frames': '144.32', 'Date03_Sub05_plasticcontainer.3.color_1fps_frames': '118.67', 'Date03_Sub05_plasticcontainer.2.color_1fps_frames': '140.68', 'Date03_Sub05_plasticcontainer.1.color_1fps_frames': '141.81', 'Date03_Sub05_plasticcontainer.0.color_1fps_frames': '134.42', 'Date03_Sub03_plasticcontainer.3.color_1fps_frames': '121.24', 'Date03_Sub03_plasticcontainer.1.color_1fps_frames': '136.17', 'Date03_Sub03_plasticcontainer.0.color_1fps_frames': '137.37', 'Date03_Sub03_plasticcontainer.2.color_1fps_frames': '135.98', 'Date03_Sub03_tablesquare_lift.2.color_1fps_frames': '138.88', 'Date03_Sub03_tablesquare_lift.3.color_1fps_frames': '116.77', 'Date03_Sub03_tablesquare_lift.1.color_1fps_frames': '137.76', 'Date03_Sub03_tablesquare_lift.0.color_1fps_frames': '137.33', 'Date03_Sub03_chairblack_lift.1.color_1fps_frames': '135.80', 'Date03_Sub03_chairblack_lift.0.color_1fps_frames': '133.97', 'Date03_Sub03_chairblack_lift.3.color_1fps_frames': '104.32', 'Date03_Sub03_chairblack_lift.2.color_1fps_frames': '134.67', 'Date03_Sub05_yogaball.3.color_1fps_frames': '144.94', 'Date03_Sub05_yogaball.2.color_1fps_frames': '187.89', 'Date03_Sub05_yogaball.1.color_1fps_frames': '191.02', 'Date03_Sub05_yogaball.0.color_1fps_frames': '165.66', 'Date03_Sub04_chairblack_hand.0.color_1fps_frames': '138.20', 'Date03_Sub04_chairblack_hand.3.color_1fps_frames': '119.80', 'Date03_Sub04_chairblack_hand.2.color_1fps_frames': '156.39', 'Date03_Sub04_chairblack_hand.1.color_1fps_frames': '158.10', 'Date03_Sub05_boxlong.3.color_1fps_frames': '117.58', 'Date03_Sub05_boxlong.2.color_1fps_frames': '153.97', 'Date03_Sub05_boxlong.1.color_1fps_frames': '155.92', 'Date03_Sub05_boxlong.0.color_1fps_frames': '134.25', 'Date03_Sub03_suitcase_lift.3.color_1fps_frames': '120.16', 'Date03_Sub03_suitcase_lift.1.color_1fps_frames': '143.36', 'Date03_Sub03_suitcase_lift.0.color_1fps_frames': '143.39', 'Date03_Sub03_suitcase_lift.2.color_1fps_frames': '143.20', 'Date03_Sub05_trashbin.1.color_1fps_frames': '114.13', 'Date03_Sub05_trashbin.3.color_1fps_frames': '112.15', 'Date03_Sub05_trashbin.2.color_1fps_frames': '115.13', 'Date03_Sub05_trashbin.0.color_1fps_frames': '114.37', 'Date03_Sub04_plasticcontainer_lift.1.color_1fps_frames': '103.46', 'Date03_Sub04_plasticcontainer_lift.3.color_1fps_frames': '103.77', 'Date03_Sub04_plasticcontainer_lift.2.color_1fps_frames': '102.76', 'Date03_Sub04_plasticcontainer_lift.0.color_1fps_frames': '103.13', 'Date03_Sub03_boxsmall.2.color_1fps_frames': '134.75', 'Date03_Sub03_boxsmall.3.color_1fps_frames': '111.20', 'Date03_Sub03_boxsmall.1.color_1fps_frames': '134.96', 'Date03_Sub03_boxsmall.0.color_1fps_frames': '134.80', 'Date03_Sub03_backpack_hug.1.color_1fps_frames': '143.24', 'Date03_Sub03_backpack_hug.3.color_1fps_frames': '118.57', 'Date03_Sub03_backpack_hug.0.color_1fps_frames': '142.65', 'Date03_Sub03_backpack_hug.2.color_1fps_frames': '142.60', 'Date03_Sub05_boxlarge.3.color_1fps_frames': '121.08', 'Date03_Sub05_boxlarge.1.color_1fps_frames': '148.30', 'Date03_Sub05_boxlarge.2.color_1fps_frames': '146.73', 'Date03_Sub05_boxlarge.0.color_1fps_frames': '135.45', 'Date03_Sub04_boxtiny.2.color_1fps_frames': '157.65', 'Date03_Sub04_boxtiny.1.color_1fps_frames': '159.30', 'Date03_Sub04_boxtiny.0.color_1fps_frames': '138.52', 'Date03_Sub04_boxtiny.3.color_1fps_frames': '124.53', 'Date03_Sub04_tablesmall_lean.3.color_1fps_frames': '116.88', 'Date03_Sub04_tablesmall_lean.2.color_1fps_frames': '154.09', 'Date03_Sub04_tablesmall_lean.0.color_1fps_frames': '136.30', 'Date03_Sub04_tablesmall_lean.1.color_1fps_frames': '154.65', 'Date03_Sub03_tablesmall_lift.3.color_1fps_frames': '114.58', 'Date03_Sub03_tablesmall_lift.0.color_1fps_frames': '138.01', 'Date03_Sub03_tablesmall_lift.2.color_1fps_frames': '138.36', 'Date03_Sub03_tablesmall_lift.1.color_1fps_frames': '138.25', 'Date03_Sub03_tablesquare_sit.3.color_1fps_frames': '119.00', 'Date03_Sub03_tablesquare_sit.0.color_1fps_frames': '118.57', 'Date03_Sub03_tablesquare_sit.2.color_1fps_frames': '118.97', 'Date03_Sub03_tablesquare_sit.1.color_1fps_frames': '119.93', 'Date03_Sub03_yogaball_sit.3.color_1fps_frames': '119.72', 'Date03_Sub03_yogaball_sit.2.color_1fps_frames': '147.25', 'Date03_Sub03_yogaball_sit.1.color_1fps_frames': '147.90', 'Date03_Sub03_yogaball_sit.0.color_1fps_frames': '147.15', 'Date03_Sub05_tablesmall.3.color_1fps_frames': '304.73', 'Date03_Sub05_tablesmall.0.color_1fps_frames': '364.89', 'Date03_Sub05_tablesmall.1.color_1fps_frames': '446.02', 'Date03_Sub05_tablesmall.2.color_1fps_frames': '441.13', 'Date03_Sub03_tablesquare_move.0.color_1fps_frames': '89.52', 'Date03_Sub03_tablesquare_move.1.color_1fps_frames': '88.74', 'Date03_Sub03_tablesquare_move.2.color_1fps_frames': '89.54', 'Date03_Sub03_tablesquare_move.3.color_1fps_frames': '88.64', 'Date03_Sub03_chairwood_sit.1.color_1fps_frames': '171.93', 'Date03_Sub03_chairwood_sit.0.color_1fps_frames': '172.20', 'Date03_Sub03_chairwood_sit.3.color_1fps_frames': '132.39', 'Date03_Sub03_chairwood_sit.2.color_1fps_frames': '171.03', 'Date03_Sub03_boxlong.0.color_1fps_frames': '146.44', 'Date03_Sub03_boxlong.2.color_1fps_frames': '146.98', 'Date03_Sub03_boxlong.3.color_1fps_frames': '112.95', 'Date03_Sub03_boxlong.1.color_1fps_frames': '146.00', 'Date03_Sub04_backpack_hug.0.color_1fps_frames': '145.38', 'Date03_Sub04_backpack_hug.1.color_1fps_frames': '156.38', 'Date03_Sub04_backpack_hug.2.color_1fps_frames': '155.34', 'Date03_Sub04_backpack_hug.3.color_1fps_frames': '126.73'}
+Average Chamfer distance per scene:  {'Date03_Sub04_backpack_back.2': '3.18', 'Date03_Sub04_backpack_back.3': '3.26', 'Date03_Sub04_backpack_back.1': '3.23', 'Date03_Sub04_backpack_back.0': '3.30', 'Date03_Sub05_chairblack.1': '3.05', 'Date03_Sub05_chairblack.2': '3.09', 'Date03_Sub05_chairblack.3': '3.06', 'Date03_Sub05_chairblack.0': '3.16', 'Date03_Sub03_boxmedium.0': '3.30', 'Date03_Sub03_boxmedium.2': '3.25', 'Date03_Sub03_boxmedium.3': '3.27', 'Date03_Sub03_boxmedium.1': '3.27', 'Date03_Sub04_keyboard_move.0': '3.22', 'Date03_Sub04_keyboard_move.2': '3.18', 'Date03_Sub04_keyboard_move.1': '3.20', 'Date03_Sub04_keyboard_move.3': '3.28', 'Date03_Sub04_tablesmall_hand.1': '3.35', 'Date03_Sub04_tablesmall_hand.0': '3.41', 'Date03_Sub04_tablesmall_hand.3': '3.34', 'Date03_Sub04_tablesmall_hand.2': '3.30', 'Date03_Sub04_stool_move.1': '3.32', 'Date03_Sub04_stool_move.0': '3.29', 'Date03_Sub04_stool_move.3': '3.29', 'Date03_Sub04_stool_move.2': '3.36', 'Date03_Sub05_stool.1': '3.30', 'Date03_Sub05_stool.3': '3.27', 'Date03_Sub05_stool.2': '3.25', 'Date03_Sub05_stool.0': '3.24', 'Date03_Sub03_toolbox.0': '3.25', 'Date03_Sub03_toolbox.1': '3.26', 'Date03_Sub03_toolbox.2': '3.24', 'Date03_Sub03_toolbox.3': '3.26', 'Date03_Sub03_basketball.3': '3.03', 'Date03_Sub03_basketball.2': '3.01', 'Date03_Sub03_basketball.0': '3.03', 'Date03_Sub03_basketball.1': '3.03', 'Date03_Sub04_chairblack_liftreal.1': '3.24', 'Date03_Sub04_chairblack_liftreal.0': '3.25', 'Date03_Sub04_chairblack_liftreal.2': '3.21', 'Date03_Sub04_chairblack_liftreal.3': '3.25', 'Date03_Sub04_yogamat.2': '3.18', 'Date03_Sub04_yogamat.0': '3.16', 'Date03_Sub04_yogamat.1': '3.16', 'Date03_Sub04_yogamat.3': '3.17', 'Date03_Sub03_boxtiny.0': '3.07', 'Date03_Sub03_boxtiny.2': '3.06', 'Date03_Sub03_boxtiny.1': '3.05', 'Date03_Sub03_boxtiny.3': '3.04', 'Date03_Sub04_keyboard_typing.1': '3.30', 'Date03_Sub04_keyboard_typing.2': '3.37', 'Date03_Sub04_keyboard_typing.3': '3.31', 'Date03_Sub04_keyboard_typing.0': '3.28', 'Date03_Sub04_yogaball_sit.2': '3.34', 'Date03_Sub04_yogaball_sit.3': '3.30', 'Date03_Sub04_yogaball_sit.1': '3.31', 'Date03_Sub04_yogaball_sit.0': '3.30', 'Date03_Sub04_chairblack_sit.3': '3.23', 'Date03_Sub04_chairblack_sit.2': '3.21', 'Date03_Sub04_chairblack_sit.1': '3.23', 'Date03_Sub04_chairblack_sit.0': '3.25', 'Date03_Sub03_stool_sit.3': '3.44', 'Date03_Sub03_stool_sit.2': '3.41', 'Date03_Sub03_stool_sit.1': '3.46', 'Date03_Sub03_stool_sit.0': '3.42', 'Date03_Sub03_chairblack_sitstand.3': '3.36', 'Date03_Sub03_chairblack_sitstand.1': '3.40', 'Date03_Sub03_chairblack_sitstand.0': '3.39', 'Date03_Sub03_chairblack_sitstand.2': '3.38', 'Date03_Sub04_chairwood_lift.1': '3.27', 'Date03_Sub04_chairwood_lift.0': '3.29', 'Date03_Sub04_chairwood_lift.3': '3.29', 'Date03_Sub04_chairwood_lift.2': '3.32', 'Date03_Sub04_boxmedium.3': '3.35', 'Date03_Sub04_boxmedium.1': '3.31', 'Date03_Sub04_boxmedium.0': '3.30', 'Date03_Sub04_boxmedium.2': '3.31', 'Date03_Sub04_boxlarge.1': '3.27', 'Date03_Sub04_boxlarge.0': '3.24', 'Date03_Sub04_boxlarge.2': '3.21', 'Date03_Sub04_boxlarge.3': '3.21', 'Date03_Sub03_suitcase_move.1': '3.16', 'Date03_Sub03_suitcase_move.3': '3.12', 'Date03_Sub03_suitcase_move.2': '3.20', 'Date03_Sub03_suitcase_move.0': '3.16', 'Date03_Sub04_backpack_hand.3': '3.28', 'Date03_Sub04_backpack_hand.2': '3.31', 'Date03_Sub04_backpack_hand.0': '3.30', 'Date03_Sub04_backpack_hand.1': '3.35', 'Date03_Sub03_trashbin.2': '3.16', 'Date03_Sub03_trashbin.0': '3.17', 'Date03_Sub03_trashbin.1': '3.16', 'Date03_Sub03_trashbin.3': '3.14', 'Date03_Sub05_boxmedium.2': '3.19', 'Date03_Sub05_boxmedium.1': '3.19', 'Date03_Sub05_boxmedium.3': '3.20', 'Date03_Sub05_boxmedium.0': '3.17', 'Date03_Sub03_monitor_move.3': '2.65', 'Date03_Sub03_monitor_move.1': '2.69', 'Date03_Sub03_monitor_move.0': '2.59', 'Date03_Sub03_monitor_move.2': '2.61', 'Date03_Sub05_chairwood.0': '3.09', 'Date03_Sub05_chairwood.2': '3.10', 'Date03_Sub05_chairwood.1': '3.15', 'Date03_Sub05_chairwood.3': '3.10', 'Date03_Sub05_monitor.3': '2.91', 'Date03_Sub05_monitor.1': '2.90', 'Date03_Sub05_monitor.2': '2.95', 'Date03_Sub05_monitor.0': '2.92', 'Date03_Sub05_keyboard.3': '3.38', 'Date03_Sub05_keyboard.0': '3.39', 'Date03_Sub05_keyboard.2': '3.37', 'Date03_Sub05_keyboard.1': '3.44', 'Date03_Sub04_chairwood_hand.1': '3.28', 'Date03_Sub04_chairwood_hand.0': '3.37', 'Date03_Sub04_chairwood_hand.3': '3.15', 'Date03_Sub04_chairwood_hand.2': '3.20', 'Date03_Sub05_basketball.0': '3.05', 'Date03_Sub05_basketball.1': '3.07', 'Date03_Sub05_basketball.2': '3.05', 'Date03_Sub05_basketball.3': '3.04', 'Date03_Sub04_trashbin.3': '3.25', 'Date03_Sub04_trashbin.1': '3.27', 'Date03_Sub04_trashbin.0': '3.26', 'Date03_Sub04_trashbin.2': '3.23', 'Date03_Sub03_tablesmall_move.0': '3.06', 'Date03_Sub03_tablesmall_move.2': '3.12', 'Date03_Sub03_tablesmall_move.3': '3.12', 'Date03_Sub03_tablesmall_move.1': '3.07', 'Date03_Sub03_chairwood_lift.2': '2.97', 'Date03_Sub03_chairwood_lift.3': '2.99', 'Date03_Sub03_chairwood_lift.1': '3.01', 'Date03_Sub03_chairwood_lift.0': '3.02', 'Date03_Sub04_tablesquare_sit.0': '3.24', 'Date03_Sub04_tablesquare_sit.1': '3.25', 'Date03_Sub04_tablesquare_sit.3': '3.24', 'Date03_Sub04_tablesquare_sit.2': '3.25', 'Date03_Sub03_chairwood_hand.0': '2.95', 'Date03_Sub03_chairwood_hand.3': '2.94', 'Date03_Sub03_chairwood_hand.1': '2.97', 'Date03_Sub03_chairwood_hand.2': '2.97', 'Date03_Sub04_stool_sit.3': '3.32', 'Date03_Sub04_stool_sit.1': '3.31', 'Date03_Sub04_stool_sit.0': '3.27', 'Date03_Sub04_stool_sit.2': '3.28', 'Date03_Sub03_chairblack_sit.3': '3.69', 'Date03_Sub03_chairblack_sit.2': '3.68', 'Date03_Sub03_chairblack_sit.1': '3.72', 'Date03_Sub03_chairblack_sit.0': '3.68', 'Date03_Sub05_yogamat.1': '3.28', 'Date03_Sub05_yogamat.0': '3.26', 'Date03_Sub05_yogamat.3': '3.23', 'Date03_Sub05_yogamat.2': '3.20', 'Date03_Sub05_suitcase.3': '3.32', 'Date03_Sub05_suitcase.0': '3.24', 'Date03_Sub05_suitcase.1': '3.29', 'Date03_Sub05_suitcase.2': '3.27', 'Date03_Sub04_tablesquare_hand.2': '3.40', 'Date03_Sub04_tablesquare_hand.1': '3.43', 'Date03_Sub04_tablesquare_hand.0': '3.39', 'Date03_Sub04_tablesquare_hand.3': '3.37', 'Date03_Sub03_yogaball_play.2': '3.10', 'Date03_Sub03_yogaball_play.1': '3.08', 'Date03_Sub03_yogaball_play.0': '3.08', 'Date03_Sub03_yogaball_play.3': '3.07', 'Date03_Sub04_boxsmall.0': '3.27', 'Date03_Sub04_boxsmall.2': '3.21', 'Date03_Sub04_boxsmall.1': '3.27', 'Date03_Sub04_boxsmall.3': '3.25', 'Date03_Sub04_tablesmall_lift.3': '3.29', 'Date03_Sub04_tablesmall_lift.1': '3.33', 'Date03_Sub04_tablesmall_lift.2': '3.30', 'Date03_Sub04_tablesmall_lift.0': '3.37', 'Date03_Sub04_chairwood_sit.2': '3.04', 'Date03_Sub04_chairwood_sit.0': '3.06', 'Date03_Sub04_chairwood_sit.1': '3.07', 'Date03_Sub04_chairwood_sit.3': '3.07', 'Date03_Sub05_boxtiny.0': '3.08', 'Date03_Sub05_boxtiny.3': '3.09', 'Date03_Sub05_boxtiny.1': '3.13', 'Date03_Sub05_boxtiny.2': '3.12', 'Date03_Sub05_tablesquare.2': '3.26', 'Date03_Sub05_tablesquare.0': '3.24', 'Date03_Sub05_tablesquare.3': '3.27', 'Date03_Sub05_tablesquare.1': '3.27', 'Date03_Sub04_toolbox.3': '3.24', 'Date03_Sub04_toolbox.1': '3.29', 'Date03_Sub04_toolbox.2': '3.26', 'Date03_Sub04_toolbox.0': '3.28', 'Date03_Sub05_boxsmall.2': '3.17', 'Date03_Sub05_boxsmall.3': '3.14', 'Date03_Sub05_boxsmall.1': '3.21', 'Date03_Sub05_boxsmall.0': '3.14', 'Date03_Sub03_backpack_back.0': '3.14', 'Date03_Sub03_backpack_back.3': '3.10', 'Date03_Sub03_backpack_back.1': '3.11', 'Date03_Sub03_backpack_back.2': '3.16', 'Date03_Sub03_keyboard_move.2': '3.05', 'Date03_Sub03_keyboard_move.0': '2.97', 'Date03_Sub03_keyboard_move.3': '2.92', 'Date03_Sub03_keyboard_move.1': '2.97', 'Date03_Sub04_monitor_hand.1': '3.76', 'Date03_Sub04_monitor_hand.0': '3.38', 'Date03_Sub04_monitor_hand.3': '3.43', 'Date03_Sub04_monitor_hand.2': '3.39', 'Date03_Sub04_tablesquare_lift.2': '3.17', 'Date03_Sub04_tablesquare_lift.3': '3.19', 'Date03_Sub04_tablesquare_lift.1': '3.21', 'Date03_Sub04_tablesquare_lift.0': '3.16', 'Date03_Sub04_basketball.0': '3.27', 'Date03_Sub04_basketball.3': '3.27', 'Date03_Sub04_basketball.2': '3.26', 'Date03_Sub04_basketball.1': '3.28', 'Date03_Sub03_backpack_hand.2': '3.13', 'Date03_Sub03_backpack_hand.1': '3.13', 'Date03_Sub03_backpack_hand.3': '3.17', 'Date03_Sub03_backpack_hand.0': '3.16', 'Date03_Sub04_yogaball_play.2': '2.88', 'Date03_Sub04_yogaball_play.3': '2.91', 'Date03_Sub04_yogaball_play.1': '2.90', 'Date03_Sub04_yogaball_play.0': '2.95', 'Date03_Sub03_boxlarge.0': '2.87', 'Date03_Sub03_boxlarge.3': '2.88', 'Date03_Sub03_boxlarge.1': '2.90', 'Date03_Sub03_boxlarge.2': '2.87', 'Date03_Sub03_yogamat.0': '3.17', 'Date03_Sub03_yogamat.2': '3.16', 'Date03_Sub03_yogamat.1': '3.25', 'Date03_Sub03_yogamat.3': '3.20', 'Date03_Sub04_suitcase_lift.0': '3.30', 'Date03_Sub04_suitcase_lift.1': '3.26', 'Date03_Sub04_suitcase_lift.2': '3.25', 'Date03_Sub04_suitcase_lift.3': '3.24', 'Date03_Sub03_chairblack_hand.0': '3.11', 'Date03_Sub03_chairblack_hand.2': '3.12', 'Date03_Sub03_chairblack_hand.3': '3.15', 'Date03_Sub03_chairblack_hand.1': '3.12', 'Date03_Sub03_tablesmall_lean.3': '3.42', 'Date03_Sub03_tablesmall_lean.1': '3.45', 'Date03_Sub03_tablesmall_lean.0': '3.43', 'Date03_Sub03_tablesmall_lean.2': '3.44', 'Date03_Sub04_suitcase_ground.1': '3.21', 'Date03_Sub04_suitcase_ground.2': '3.25', 'Date03_Sub04_suitcase_ground.0': '3.22', 'Date03_Sub04_suitcase_ground.3': '3.29', 'Date03_Sub05_backpack.0': '3.15', 'Date03_Sub05_backpack.1': '3.19', 'Date03_Sub05_backpack.2': '3.16', 'Date03_Sub05_backpack.3': '3.18', 'Date03_Sub05_toolbox.2': '3.33', 'Date03_Sub05_toolbox.1': '3.38', 'Date03_Sub05_toolbox.0': '3.38', 'Date03_Sub05_toolbox.3': '3.36', 'Date03_Sub03_stool_lift.3': '3.23', 'Date03_Sub03_stool_lift.2': '3.22', 'Date03_Sub03_stool_lift.0': '3.24', 'Date03_Sub03_stool_lift.1': '3.29', 'Date03_Sub04_boxlong.1': '3.44', 'Date03_Sub04_boxlong.0': '3.37', 'Date03_Sub04_boxlong.3': '3.34', 'Date03_Sub04_boxlong.2': '3.42', 'Date03_Sub03_keyboard_typing.3': '3.28', 'Date03_Sub03_keyboard_typing.2': '3.25', 'Date03_Sub03_keyboard_typing.1': '3.28', 'Date03_Sub03_keyboard_typing.0': '3.23', 'Date03_Sub04_monitor_move.3': '3.41', 'Date03_Sub04_monitor_move.2': '3.38', 'Date03_Sub04_monitor_move.1': '3.42', 'Date03_Sub04_monitor_move.0': '3.44', 'Date03_Sub05_plasticcontainer.3': '3.21', 'Date03_Sub05_plasticcontainer.2': '3.20', 'Date03_Sub05_plasticcontainer.1': '3.22', 'Date03_Sub05_plasticcontainer.0': '3.20', 'Date03_Sub03_plasticcontainer.3': '3.28', 'Date03_Sub03_plasticcontainer.1': '3.24', 'Date03_Sub03_plasticcontainer.0': '3.27', 'Date03_Sub03_plasticcontainer.2': '3.24', 'Date03_Sub03_tablesquare_lift.2': '3.23', 'Date03_Sub03_tablesquare_lift.3': '3.16', 'Date03_Sub03_tablesquare_lift.1': '3.20', 'Date03_Sub03_tablesquare_lift.0': '3.19', 'Date03_Sub03_chairblack_lift.1': '2.83', 'Date03_Sub03_chairblack_lift.0': '2.79', 'Date03_Sub03_chairblack_lift.3': '2.82', 'Date03_Sub03_chairblack_lift.2': '2.81', 'Date03_Sub05_yogaball.3': '2.96', 'Date03_Sub05_yogaball.2': '2.94', 'Date03_Sub05_yogaball.1': '2.98', 'Date03_Sub05_yogaball.0': '2.96', 'Date03_Sub04_chairblack_hand.0': '3.29', 'Date03_Sub04_chairblack_hand.3': '3.24', 'Date03_Sub04_chairblack_hand.2': '3.26', 'Date03_Sub04_chairblack_hand.1': '3.29', 'Date03_Sub05_boxlong.3': '3.18', 'Date03_Sub05_boxlong.2': '3.21', 'Date03_Sub05_boxlong.1': '3.25', 'Date03_Sub05_boxlong.0': '3.20', 'Date03_Sub03_suitcase_lift.3': '3.25', 'Date03_Sub03_suitcase_lift.1': '3.26', 'Date03_Sub03_suitcase_lift.0': '3.26', 'Date03_Sub03_suitcase_lift.2': '3.25', 'Date03_Sub05_trashbin.1': '3.08', 'Date03_Sub05_trashbin.3': '3.03', 'Date03_Sub05_trashbin.2': '3.11', 'Date03_Sub05_trashbin.0': '3.09', 'Date03_Sub04_plasticcontainer_lift.1': '3.23', 'Date03_Sub04_plasticcontainer_lift.3': '3.24', 'Date03_Sub04_plasticcontainer_lift.2': '3.21', 'Date03_Sub04_plasticcontainer_lift.0': '3.22', 'Date03_Sub03_boxsmall.2': '2.99', 'Date03_Sub03_boxsmall.3': '3.01', 'Date03_Sub03_boxsmall.1': '3.00', 'Date03_Sub03_boxsmall.0': '3.00', 'Date03_Sub03_backpack_hug.1': '3.18', 'Date03_Sub03_backpack_hug.3': '3.20', 'Date03_Sub03_backpack_hug.0': '3.17', 'Date03_Sub03_backpack_hug.2': '3.17', 'Date03_Sub05_boxlarge.3': '3.27', 'Date03_Sub05_boxlarge.1': '3.30', 'Date03_Sub05_boxlarge.2': '3.26', 'Date03_Sub05_boxlarge.0': '3.22', 'Date03_Sub04_boxtiny.2': '3.28', 'Date03_Sub04_boxtiny.1': '3.32', 'Date03_Sub04_boxtiny.0': '3.30', 'Date03_Sub04_boxtiny.3': '3.37', 'Date03_Sub04_tablesmall_lean.3': '3.16', 'Date03_Sub04_tablesmall_lean.2': '3.21', 'Date03_Sub04_tablesmall_lean.0': '3.25', 'Date03_Sub04_tablesmall_lean.1': '3.22', 'Date03_Sub03_tablesmall_lift.3': '3.10', 'Date03_Sub03_tablesmall_lift.0': '3.07', 'Date03_Sub03_tablesmall_lift.2': '3.07', 'Date03_Sub03_tablesmall_lift.1': '3.07', 'Date03_Sub03_tablesquare_sit.3': '3.31', 'Date03_Sub03_tablesquare_sit.0': '3.29', 'Date03_Sub03_tablesquare_sit.2': '3.30', 'Date03_Sub03_tablesquare_sit.1': '3.33', 'Date03_Sub03_yogaball_sit.3': '3.24', 'Date03_Sub03_yogaball_sit.2': '3.27', 'Date03_Sub03_yogaball_sit.1': '3.29', 'Date03_Sub03_yogaball_sit.0': '3.27', 'Date03_Sub05_tablesmall.3': '3.39', 'Date03_Sub05_tablesmall.0': '3.35', 'Date03_Sub05_tablesmall.1': '3.40', 'Date03_Sub05_tablesmall.2': '3.37', 'Date03_Sub03_tablesquare_move.0': '2.89', 'Date03_Sub03_tablesquare_move.1': '2.86', 'Date03_Sub03_tablesquare_move.2': '2.89', 'Date03_Sub03_tablesquare_move.3': '2.86', 'Date03_Sub03_chairwood_sit.1': '3.58', 'Date03_Sub03_chairwood_sit.0': '3.59', 'Date03_Sub03_chairwood_sit.3': '3.58', 'Date03_Sub03_chairwood_sit.2': '3.56', 'Date03_Sub03_boxlong.0': '3.05', 'Date03_Sub03_boxlong.2': '3.06', 'Date03_Sub03_boxlong.3': '3.05', 'Date03_Sub03_boxlong.1': '3.04', 'Date03_Sub04_backpack_hug.0': '3.46', 'Date03_Sub04_backpack_hug.1': '3.40', 'Date03_Sub04_backpack_hug.2': '3.38', 'Date03_Sub04_backpack_hug.3': '3.43'}
+Overall average Chamfer distance:  3.21
+Average PA Chamfer distance per scene-camera:  {'Date03_Sub04_backpack_back.2.color_1fps_frames': '133.67', 'Date03_Sub04_backpack_back.3.color_1fps_frames': '138.56', 'Date03_Sub04_backpack_back.1.color_1fps_frames': '131.83', 'Date03_Sub04_backpack_back.0.color_1fps_frames': '149.99', 'Date03_Sub05_chairblack.1.color_1fps_frames': '383.43', 'Date03_Sub05_chairblack.2.color_1fps_frames': '397.60', 'Date03_Sub05_chairblack.3.color_1fps_frames': '321.85', 'Date03_Sub05_chairblack.0.color_1fps_frames': '376.87', 'Date03_Sub03_boxmedium.0.color_1fps_frames': '154.87', 'Date03_Sub03_boxmedium.2.color_1fps_frames': '156.28', 'Date03_Sub03_boxmedium.3.color_1fps_frames': '120.27', 'Date03_Sub03_boxmedium.1.color_1fps_frames': '156.62', 'Date03_Sub04_keyboard_move.0.color_1fps_frames': '118.45', 'Date03_Sub04_keyboard_move.2.color_1fps_frames': '126.37', 'Date03_Sub04_keyboard_move.1.color_1fps_frames': '123.01', 'Date03_Sub04_keyboard_move.3.color_1fps_frames': '112.60', 'Date03_Sub04_tablesmall_hand.1.color_1fps_frames': '155.65', 'Date03_Sub04_tablesmall_hand.0.color_1fps_frames': '106.57', 'Date03_Sub04_tablesmall_hand.3.color_1fps_frames': '126.59', 'Date03_Sub04_tablesmall_hand.2.color_1fps_frames': '153.49', 'Date03_Sub04_stool_move.1.color_1fps_frames': '156.46', 'Date03_Sub04_stool_move.0.color_1fps_frames': '135.21', 'Date03_Sub04_stool_move.3.color_1fps_frames': '123.33', 'Date03_Sub04_stool_move.2.color_1fps_frames': '153.40', 'Date03_Sub05_stool.1.color_1fps_frames': '210.95', 'Date03_Sub05_stool.3.color_1fps_frames': '179.88', 'Date03_Sub05_stool.2.color_1fps_frames': '209.36', 'Date03_Sub05_stool.0.color_1fps_frames': '192.56', 'Date03_Sub03_toolbox.0.color_1fps_frames': '138.67', 'Date03_Sub03_toolbox.1.color_1fps_frames': '139.38', 'Date03_Sub03_toolbox.2.color_1fps_frames': '137.77', 'Date03_Sub03_toolbox.3.color_1fps_frames': '125.52', 'Date03_Sub03_basketball.3.color_1fps_frames': '107.41', 'Date03_Sub03_basketball.2.color_1fps_frames': '160.43', 'Date03_Sub03_basketball.0.color_1fps_frames': '160.04', 'Date03_Sub03_basketball.1.color_1fps_frames': '159.77', 'Date03_Sub04_chairblack_liftreal.1.color_1fps_frames': '171.97', 'Date03_Sub04_chairblack_liftreal.0.color_1fps_frames': '161.49', 'Date03_Sub04_chairblack_liftreal.2.color_1fps_frames': '170.98', 'Date03_Sub04_chairblack_liftreal.3.color_1fps_frames': '127.26', 'Date03_Sub04_yogamat.2.color_1fps_frames': '165.44', 'Date03_Sub04_yogamat.0.color_1fps_frames': '144.82', 'Date03_Sub04_yogamat.1.color_1fps_frames': '163.59', 'Date03_Sub04_yogamat.3.color_1fps_frames': '131.83', 'Date03_Sub03_boxtiny.0.color_1fps_frames': '145.72', 'Date03_Sub03_boxtiny.2.color_1fps_frames': '142.04', 'Date03_Sub03_boxtiny.1.color_1fps_frames': '142.18', 'Date03_Sub03_boxtiny.3.color_1fps_frames': '113.16', 'Date03_Sub04_keyboard_typing.1.color_1fps_frames': '138.26', 'Date03_Sub04_keyboard_typing.2.color_1fps_frames': '157.42', 'Date03_Sub04_keyboard_typing.3.color_1fps_frames': '120.59', 'Date03_Sub04_keyboard_typing.0.color_1fps_frames': '131.67', 'Date03_Sub04_yogaball_sit.2.color_1fps_frames': '148.48', 'Date03_Sub04_yogaball_sit.3.color_1fps_frames': '111.43', 'Date03_Sub04_yogaball_sit.1.color_1fps_frames': '148.70', 'Date03_Sub04_yogaball_sit.0.color_1fps_frames': '129.95', 'Date03_Sub04_chairblack_sit.3.color_1fps_frames': '130.70', 'Date03_Sub04_chairblack_sit.2.color_1fps_frames': '148.45', 'Date03_Sub04_chairblack_sit.1.color_1fps_frames': '147.19', 'Date03_Sub04_chairblack_sit.0.color_1fps_frames': '124.56', 'Date03_Sub03_stool_sit.3.color_1fps_frames': '140.61', 'Date03_Sub03_stool_sit.2.color_1fps_frames': '185.20', 'Date03_Sub03_stool_sit.1.color_1fps_frames': '186.49', 'Date03_Sub03_stool_sit.0.color_1fps_frames': '185.59', 'Date03_Sub03_chairblack_sitstand.3.color_1fps_frames': '50.76', 'Date03_Sub03_chairblack_sitstand.1.color_1fps_frames': '47.38', 'Date03_Sub03_chairblack_sitstand.0.color_1fps_frames': '48.05', 'Date03_Sub03_chairblack_sitstand.2.color_1fps_frames': '47.89', 'Date03_Sub04_chairwood_lift.1.color_1fps_frames': '171.69', 'Date03_Sub04_chairwood_lift.0.color_1fps_frames': '151.65', 'Date03_Sub04_chairwood_lift.3.color_1fps_frames': '140.91', 'Date03_Sub04_chairwood_lift.2.color_1fps_frames': '176.81', 'Date03_Sub04_boxmedium.3.color_1fps_frames': '124.68', 'Date03_Sub04_boxmedium.1.color_1fps_frames': '181.49', 'Date03_Sub04_boxmedium.0.color_1fps_frames': '162.63', 'Date03_Sub04_boxmedium.2.color_1fps_frames': '187.78', 'Date03_Sub04_boxlarge.1.color_1fps_frames': '143.86', 'Date03_Sub04_boxlarge.0.color_1fps_frames': '155.09', 'Date03_Sub04_boxlarge.2.color_1fps_frames': '142.95', 'Date03_Sub04_boxlarge.3.color_1fps_frames': '121.75', 'Date03_Sub03_suitcase_move.1.color_1fps_frames': '143.55', 'Date03_Sub03_suitcase_move.3.color_1fps_frames': '118.99', 'Date03_Sub03_suitcase_move.2.color_1fps_frames': '143.27', 'Date03_Sub03_suitcase_move.0.color_1fps_frames': '141.78', 'Date03_Sub04_backpack_hand.3.color_1fps_frames': '130.20', 'Date03_Sub04_backpack_hand.2.color_1fps_frames': '160.12', 'Date03_Sub04_backpack_hand.0.color_1fps_frames': '156.67', 'Date03_Sub04_backpack_hand.1.color_1fps_frames': '159.67', 'Date03_Sub03_trashbin.2.color_1fps_frames': '121.21', 'Date03_Sub03_trashbin.0.color_1fps_frames': '122.92', 'Date03_Sub03_trashbin.1.color_1fps_frames': '122.27', 'Date03_Sub03_trashbin.3.color_1fps_frames': '109.91', 'Date03_Sub05_boxmedium.2.color_1fps_frames': '116.29', 'Date03_Sub05_boxmedium.1.color_1fps_frames': '113.91', 'Date03_Sub05_boxmedium.3.color_1fps_frames': '130.20', 'Date03_Sub05_boxmedium.0.color_1fps_frames': '126.94', 'Date03_Sub03_monitor_move.3.color_1fps_frames': '79.00', 'Date03_Sub03_monitor_move.1.color_1fps_frames': '131.47', 'Date03_Sub03_monitor_move.0.color_1fps_frames': '134.75', 'Date03_Sub03_monitor_move.2.color_1fps_frames': '143.21', 'Date03_Sub05_chairwood.0.color_1fps_frames': '384.62', 'Date03_Sub05_chairwood.2.color_1fps_frames': '346.28', 'Date03_Sub05_chairwood.1.color_1fps_frames': '341.95', 'Date03_Sub05_chairwood.3.color_1fps_frames': '336.83', 'Date03_Sub05_monitor.3.color_1fps_frames': '148.09', 'Date03_Sub05_monitor.1.color_1fps_frames': '185.60', 'Date03_Sub05_monitor.2.color_1fps_frames': '200.33', 'Date03_Sub05_monitor.0.color_1fps_frames': '149.29', 'Date03_Sub05_keyboard.3.color_1fps_frames': '139.37', 'Date03_Sub05_keyboard.0.color_1fps_frames': '197.60', 'Date03_Sub05_keyboard.2.color_1fps_frames': '218.70', 'Date03_Sub05_keyboard.1.color_1fps_frames': '224.64', 'Date03_Sub04_chairwood_hand.1.color_1fps_frames': '130.90', 'Date03_Sub04_chairwood_hand.0.color_1fps_frames': '121.03', 'Date03_Sub04_chairwood_hand.3.color_1fps_frames': '108.81', 'Date03_Sub04_chairwood_hand.2.color_1fps_frames': '135.05', 'Date03_Sub05_basketball.0.color_1fps_frames': '116.42', 'Date03_Sub05_basketball.1.color_1fps_frames': '124.96', 'Date03_Sub05_basketball.2.color_1fps_frames': '128.62', 'Date03_Sub05_basketball.3.color_1fps_frames': '105.74', 'Date03_Sub04_trashbin.3.color_1fps_frames': '111.98', 'Date03_Sub04_trashbin.1.color_1fps_frames': '124.45', 'Date03_Sub04_trashbin.0.color_1fps_frames': '125.71', 'Date03_Sub04_trashbin.2.color_1fps_frames': '126.20', 'Date03_Sub03_tablesmall_move.0.color_1fps_frames': '131.79', 'Date03_Sub03_tablesmall_move.2.color_1fps_frames': '136.79', 'Date03_Sub03_tablesmall_move.3.color_1fps_frames': '102.11', 'Date03_Sub03_tablesmall_move.1.color_1fps_frames': '131.30', 'Date03_Sub03_chairwood_lift.2.color_1fps_frames': '120.18', 'Date03_Sub03_chairwood_lift.3.color_1fps_frames': '104.27', 'Date03_Sub03_chairwood_lift.1.color_1fps_frames': '117.06', 'Date03_Sub03_chairwood_lift.0.color_1fps_frames': '118.63', 'Date03_Sub04_tablesquare_sit.0.color_1fps_frames': '139.71', 'Date03_Sub04_tablesquare_sit.1.color_1fps_frames': '142.39', 'Date03_Sub04_tablesquare_sit.3.color_1fps_frames': '84.55', 'Date03_Sub04_tablesquare_sit.2.color_1fps_frames': '144.59', 'Date03_Sub03_chairwood_hand.0.color_1fps_frames': '139.20', 'Date03_Sub03_chairwood_hand.3.color_1fps_frames': '97.38', 'Date03_Sub03_chairwood_hand.1.color_1fps_frames': '135.85', 'Date03_Sub03_chairwood_hand.2.color_1fps_frames': '133.54', 'Date03_Sub04_stool_sit.3.color_1fps_frames': '122.06', 'Date03_Sub04_stool_sit.1.color_1fps_frames': '124.99', 'Date03_Sub04_stool_sit.0.color_1fps_frames': '123.26', 'Date03_Sub04_stool_sit.2.color_1fps_frames': '159.18', 'Date03_Sub03_chairblack_sit.3.color_1fps_frames': '136.74', 'Date03_Sub03_chairblack_sit.2.color_1fps_frames': '174.84', 'Date03_Sub03_chairblack_sit.1.color_1fps_frames': '174.89', 'Date03_Sub03_chairblack_sit.0.color_1fps_frames': '174.21', 'Date03_Sub05_yogamat.1.color_1fps_frames': '144.09', 'Date03_Sub05_yogamat.0.color_1fps_frames': '142.06', 'Date03_Sub05_yogamat.3.color_1fps_frames': '113.65', 'Date03_Sub05_yogamat.2.color_1fps_frames': '145.77', 'Date03_Sub05_suitcase.3.color_1fps_frames': '133.84', 'Date03_Sub05_suitcase.0.color_1fps_frames': '198.33', 'Date03_Sub05_suitcase.1.color_1fps_frames': '192.47', 'Date03_Sub05_suitcase.2.color_1fps_frames': '188.32', 'Date03_Sub04_tablesquare_hand.2.color_1fps_frames': '161.12', 'Date03_Sub04_tablesquare_hand.1.color_1fps_frames': '157.94', 'Date03_Sub04_tablesquare_hand.0.color_1fps_frames': '144.91', 'Date03_Sub04_tablesquare_hand.3.color_1fps_frames': '121.78', 'Date03_Sub03_yogaball_play.2.color_1fps_frames': '141.57', 'Date03_Sub03_yogaball_play.1.color_1fps_frames': '144.68', 'Date03_Sub03_yogaball_play.0.color_1fps_frames': '144.07', 'Date03_Sub03_yogaball_play.3.color_1fps_frames': '116.82', 'Date03_Sub04_boxsmall.0.color_1fps_frames': '141.83', 'Date03_Sub04_boxsmall.2.color_1fps_frames': '156.16', 'Date03_Sub04_boxsmall.1.color_1fps_frames': '157.49', 'Date03_Sub04_boxsmall.3.color_1fps_frames': '124.09', 'Date03_Sub04_tablesmall_lift.3.color_1fps_frames': '109.74', 'Date03_Sub04_tablesmall_lift.1.color_1fps_frames': '155.36', 'Date03_Sub04_tablesmall_lift.2.color_1fps_frames': '158.34', 'Date03_Sub04_tablesmall_lift.0.color_1fps_frames': '161.60', 'Date03_Sub04_chairwood_sit.2.color_1fps_frames': '111.78', 'Date03_Sub04_chairwood_sit.0.color_1fps_frames': '135.25', 'Date03_Sub04_chairwood_sit.1.color_1fps_frames': '110.76', 'Date03_Sub04_chairwood_sit.3.color_1fps_frames': '122.93', 'Date03_Sub05_boxtiny.0.color_1fps_frames': '155.53', 'Date03_Sub05_boxtiny.3.color_1fps_frames': '122.44', 'Date03_Sub05_boxtiny.1.color_1fps_frames': '157.54', 'Date03_Sub05_boxtiny.2.color_1fps_frames': '161.77', 'Date03_Sub05_tablesquare.2.color_1fps_frames': '332.21', 'Date03_Sub05_tablesquare.0.color_1fps_frames': '375.49', 'Date03_Sub05_tablesquare.3.color_1fps_frames': '387.71', 'Date03_Sub05_tablesquare.1.color_1fps_frames': '336.28', 'Date03_Sub04_toolbox.3.color_1fps_frames': '126.07', 'Date03_Sub04_toolbox.1.color_1fps_frames': '163.72', 'Date03_Sub04_toolbox.2.color_1fps_frames': '158.68', 'Date03_Sub04_toolbox.0.color_1fps_frames': '154.55', 'Date03_Sub05_boxsmall.2.color_1fps_frames': '168.44', 'Date03_Sub05_boxsmall.3.color_1fps_frames': '120.12', 'Date03_Sub05_boxsmall.1.color_1fps_frames': '162.65', 'Date03_Sub05_boxsmall.0.color_1fps_frames': '147.14', 'Date03_Sub03_backpack_back.0.color_1fps_frames': '140.04', 'Date03_Sub03_backpack_back.3.color_1fps_frames': '138.54', 'Date03_Sub03_backpack_back.1.color_1fps_frames': '139.67', 'Date03_Sub03_backpack_back.2.color_1fps_frames': '141.32', 'Date03_Sub03_keyboard_move.2.color_1fps_frames': '121.92', 'Date03_Sub03_keyboard_move.0.color_1fps_frames': '122.68', 'Date03_Sub03_keyboard_move.3.color_1fps_frames': '94.17', 'Date03_Sub03_keyboard_move.1.color_1fps_frames': '123.05', 'Date03_Sub04_monitor_hand.1.color_1fps_frames': '189.69', 'Date03_Sub04_monitor_hand.0.color_1fps_frames': '135.28', 'Date03_Sub04_monitor_hand.3.color_1fps_frames': '105.23', 'Date03_Sub04_monitor_hand.2.color_1fps_frames': '134.52', 'Date03_Sub04_tablesquare_lift.2.color_1fps_frames': '139.52', 'Date03_Sub04_tablesquare_lift.3.color_1fps_frames': '104.00', 'Date03_Sub04_tablesquare_lift.1.color_1fps_frames': '142.04', 'Date03_Sub04_tablesquare_lift.0.color_1fps_frames': '112.19', 'Date03_Sub04_basketball.0.color_1fps_frames': '146.72', 'Date03_Sub04_basketball.3.color_1fps_frames': '106.75', 'Date03_Sub04_basketball.2.color_1fps_frames': '164.55', 'Date03_Sub04_basketball.1.color_1fps_frames': '161.00', 'Date03_Sub03_backpack_hand.2.color_1fps_frames': '140.96', 'Date03_Sub03_backpack_hand.1.color_1fps_frames': '141.11', 'Date03_Sub03_backpack_hand.3.color_1fps_frames': '126.66', 'Date03_Sub03_backpack_hand.0.color_1fps_frames': '144.50', 'Date03_Sub04_yogaball_play.2.color_1fps_frames': '71.27', 'Date03_Sub04_yogaball_play.3.color_1fps_frames': '72.25', 'Date03_Sub04_yogaball_play.1.color_1fps_frames': '71.29', 'Date03_Sub04_yogaball_play.0.color_1fps_frames': '74.37', 'Date03_Sub03_boxlarge.0.color_1fps_frames': '133.90', 'Date03_Sub03_boxlarge.3.color_1fps_frames': '102.94', 'Date03_Sub03_boxlarge.1.color_1fps_frames': '134.26', 'Date03_Sub03_boxlarge.2.color_1fps_frames': '134.07', 'Date03_Sub03_yogamat.0.color_1fps_frames': '150.46', 'Date03_Sub03_yogamat.2.color_1fps_frames': '150.49', 'Date03_Sub03_yogamat.1.color_1fps_frames': '153.52', 'Date03_Sub03_yogamat.3.color_1fps_frames': '108.67', 'Date03_Sub04_suitcase_lift.0.color_1fps_frames': '150.94', 'Date03_Sub04_suitcase_lift.1.color_1fps_frames': '166.90', 'Date03_Sub04_suitcase_lift.2.color_1fps_frames': '166.53', 'Date03_Sub04_suitcase_lift.3.color_1fps_frames': '98.22', 'Date03_Sub03_chairblack_hand.0.color_1fps_frames': '120.46', 'Date03_Sub03_chairblack_hand.2.color_1fps_frames': '120.35', 'Date03_Sub03_chairblack_hand.3.color_1fps_frames': '100.97', 'Date03_Sub03_chairblack_hand.1.color_1fps_frames': '121.06', 'Date03_Sub03_tablesmall_lean.3.color_1fps_frames': '141.75', 'Date03_Sub03_tablesmall_lean.1.color_1fps_frames': '169.01', 'Date03_Sub03_tablesmall_lean.0.color_1fps_frames': '168.75', 'Date03_Sub03_tablesmall_lean.2.color_1fps_frames': '169.36', 'Date03_Sub04_suitcase_ground.1.color_1fps_frames': '131.48', 'Date03_Sub04_suitcase_ground.2.color_1fps_frames': '135.13', 'Date03_Sub04_suitcase_ground.0.color_1fps_frames': '114.67', 'Date03_Sub04_suitcase_ground.3.color_1fps_frames': '129.98', 'Date03_Sub05_backpack.0.color_1fps_frames': '314.03', 'Date03_Sub05_backpack.1.color_1fps_frames': '396.58', 'Date03_Sub05_backpack.2.color_1fps_frames': '382.80', 'Date03_Sub05_backpack.3.color_1fps_frames': '314.99', 'Date03_Sub05_toolbox.2.color_1fps_frames': '148.26', 'Date03_Sub05_toolbox.1.color_1fps_frames': '148.25', 'Date03_Sub05_toolbox.0.color_1fps_frames': '153.90', 'Date03_Sub05_toolbox.3.color_1fps_frames': '144.74', 'Date03_Sub03_stool_lift.3.color_1fps_frames': '132.18', 'Date03_Sub03_stool_lift.2.color_1fps_frames': '152.13', 'Date03_Sub03_stool_lift.0.color_1fps_frames': '152.25', 'Date03_Sub03_stool_lift.1.color_1fps_frames': '156.55', 'Date03_Sub04_boxlong.1.color_1fps_frames': '114.19', 'Date03_Sub04_boxlong.0.color_1fps_frames': '147.39', 'Date03_Sub04_boxlong.3.color_1fps_frames': '140.15', 'Date03_Sub04_boxlong.2.color_1fps_frames': '129.66', 'Date03_Sub03_keyboard_typing.3.color_1fps_frames': '109.68', 'Date03_Sub03_keyboard_typing.2.color_1fps_frames': '122.59', 'Date03_Sub03_keyboard_typing.1.color_1fps_frames': '123.65', 'Date03_Sub03_keyboard_typing.0.color_1fps_frames': '136.39', 'Date03_Sub04_monitor_move.3.color_1fps_frames': '137.33', 'Date03_Sub04_monitor_move.2.color_1fps_frames': '165.04', 'Date03_Sub04_monitor_move.1.color_1fps_frames': '167.79', 'Date03_Sub04_monitor_move.0.color_1fps_frames': '159.23', 'Date03_Sub05_plasticcontainer.3.color_1fps_frames': '115.62', 'Date03_Sub05_plasticcontainer.2.color_1fps_frames': '129.94', 'Date03_Sub05_plasticcontainer.1.color_1fps_frames': '130.90', 'Date03_Sub05_plasticcontainer.0.color_1fps_frames': '122.81', 'Date03_Sub03_plasticcontainer.3.color_1fps_frames': '131.14', 'Date03_Sub03_plasticcontainer.1.color_1fps_frames': '133.57', 'Date03_Sub03_plasticcontainer.0.color_1fps_frames': '137.50', 'Date03_Sub03_plasticcontainer.2.color_1fps_frames': '132.95', 'Date03_Sub03_tablesquare_lift.2.color_1fps_frames': '120.06', 'Date03_Sub03_tablesquare_lift.3.color_1fps_frames': '100.07', 'Date03_Sub03_tablesquare_lift.1.color_1fps_frames': '123.44', 'Date03_Sub03_tablesquare_lift.0.color_1fps_frames': '123.91', 'Date03_Sub03_chairblack_lift.1.color_1fps_frames': '144.90', 'Date03_Sub03_chairblack_lift.0.color_1fps_frames': '146.55', 'Date03_Sub03_chairblack_lift.3.color_1fps_frames': '102.91', 'Date03_Sub03_chairblack_lift.2.color_1fps_frames': '147.45', 'Date03_Sub05_yogaball.3.color_1fps_frames': '141.14', 'Date03_Sub05_yogaball.2.color_1fps_frames': '192.87', 'Date03_Sub05_yogaball.1.color_1fps_frames': '197.84', 'Date03_Sub05_yogaball.0.color_1fps_frames': '149.56', 'Date03_Sub04_chairblack_hand.0.color_1fps_frames': '128.48', 'Date03_Sub04_chairblack_hand.3.color_1fps_frames': '102.27', 'Date03_Sub04_chairblack_hand.2.color_1fps_frames': '151.34', 'Date03_Sub04_chairblack_hand.1.color_1fps_frames': '152.35', 'Date03_Sub05_boxlong.3.color_1fps_frames': '126.46', 'Date03_Sub05_boxlong.2.color_1fps_frames': '164.92', 'Date03_Sub05_boxlong.1.color_1fps_frames': '166.57', 'Date03_Sub05_boxlong.0.color_1fps_frames': '107.83', 'Date03_Sub03_suitcase_lift.3.color_1fps_frames': '128.19', 'Date03_Sub03_suitcase_lift.1.color_1fps_frames': '147.76', 'Date03_Sub03_suitcase_lift.0.color_1fps_frames': '147.17', 'Date03_Sub03_suitcase_lift.2.color_1fps_frames': '148.64', 'Date03_Sub05_trashbin.1.color_1fps_frames': '105.19', 'Date03_Sub05_trashbin.3.color_1fps_frames': '104.79', 'Date03_Sub05_trashbin.2.color_1fps_frames': '104.64', 'Date03_Sub05_trashbin.0.color_1fps_frames': '105.76', 'Date03_Sub04_plasticcontainer_lift.1.color_1fps_frames': '105.53', 'Date03_Sub04_plasticcontainer_lift.3.color_1fps_frames': '106.29', 'Date03_Sub04_plasticcontainer_lift.2.color_1fps_frames': '108.44', 'Date03_Sub04_plasticcontainer_lift.0.color_1fps_frames': '108.72', 'Date03_Sub03_boxsmall.2.color_1fps_frames': '137.31', 'Date03_Sub03_boxsmall.3.color_1fps_frames': '113.22', 'Date03_Sub03_boxsmall.1.color_1fps_frames': '137.56', 'Date03_Sub03_boxsmall.0.color_1fps_frames': '137.06', 'Date03_Sub03_backpack_hug.1.color_1fps_frames': '145.56', 'Date03_Sub03_backpack_hug.3.color_1fps_frames': '126.02', 'Date03_Sub03_backpack_hug.0.color_1fps_frames': '142.37', 'Date03_Sub03_backpack_hug.2.color_1fps_frames': '143.76', 'Date03_Sub05_boxlarge.3.color_1fps_frames': '134.76', 'Date03_Sub05_boxlarge.1.color_1fps_frames': '145.19', 'Date03_Sub05_boxlarge.2.color_1fps_frames': '151.05', 'Date03_Sub05_boxlarge.0.color_1fps_frames': '135.07', 'Date03_Sub04_boxtiny.2.color_1fps_frames': '180.93', 'Date03_Sub04_boxtiny.1.color_1fps_frames': '184.29', 'Date03_Sub04_boxtiny.0.color_1fps_frames': '158.36', 'Date03_Sub04_boxtiny.3.color_1fps_frames': '127.09', 'Date03_Sub04_tablesmall_lean.3.color_1fps_frames': '102.09', 'Date03_Sub04_tablesmall_lean.2.color_1fps_frames': '129.50', 'Date03_Sub04_tablesmall_lean.0.color_1fps_frames': '151.07', 'Date03_Sub04_tablesmall_lean.1.color_1fps_frames': '125.36', 'Date03_Sub03_tablesmall_lift.3.color_1fps_frames': '121.72', 'Date03_Sub03_tablesmall_lift.0.color_1fps_frames': '149.24', 'Date03_Sub03_tablesmall_lift.2.color_1fps_frames': '148.51', 'Date03_Sub03_tablesmall_lift.1.color_1fps_frames': '148.69', 'Date03_Sub03_tablesquare_sit.3.color_1fps_frames': '133.76', 'Date03_Sub03_tablesquare_sit.0.color_1fps_frames': '133.06', 'Date03_Sub03_tablesquare_sit.2.color_1fps_frames': '133.89', 'Date03_Sub03_tablesquare_sit.1.color_1fps_frames': '134.28', 'Date03_Sub03_yogaball_sit.3.color_1fps_frames': '135.35', 'Date03_Sub03_yogaball_sit.2.color_1fps_frames': '174.08', 'Date03_Sub03_yogaball_sit.1.color_1fps_frames': '175.17', 'Date03_Sub03_yogaball_sit.0.color_1fps_frames': '174.39', 'Date03_Sub05_tablesmall.3.color_1fps_frames': '273.34', 'Date03_Sub05_tablesmall.0.color_1fps_frames': '363.39', 'Date03_Sub05_tablesmall.1.color_1fps_frames': '422.19', 'Date03_Sub05_tablesmall.2.color_1fps_frames': '420.08', 'Date03_Sub03_tablesquare_move.0.color_1fps_frames': '71.49', 'Date03_Sub03_tablesquare_move.1.color_1fps_frames': '73.31', 'Date03_Sub03_tablesquare_move.2.color_1fps_frames': '71.14', 'Date03_Sub03_tablesquare_move.3.color_1fps_frames': '71.60', 'Date03_Sub03_chairwood_sit.1.color_1fps_frames': '204.48', 'Date03_Sub03_chairwood_sit.0.color_1fps_frames': '203.51', 'Date03_Sub03_chairwood_sit.3.color_1fps_frames': '141.96', 'Date03_Sub03_chairwood_sit.2.color_1fps_frames': '197.01', 'Date03_Sub03_boxlong.0.color_1fps_frames': '135.14', 'Date03_Sub03_boxlong.2.color_1fps_frames': '135.68', 'Date03_Sub03_boxlong.3.color_1fps_frames': '128.35', 'Date03_Sub03_boxlong.1.color_1fps_frames': '135.54', 'Date03_Sub04_backpack_hug.0.color_1fps_frames': '163.40', 'Date03_Sub04_backpack_hug.1.color_1fps_frames': '178.96', 'Date03_Sub04_backpack_hug.2.color_1fps_frames': '176.66', 'Date03_Sub04_backpack_hug.3.color_1fps_frames': '150.04'}
+Average PA Chamfer distance per scene:  {'Date03_Sub04_backpack_back.2': '2.84', 'Date03_Sub04_backpack_back.3': '3.74', 'Date03_Sub04_backpack_back.1': '2.80', 'Date03_Sub04_backpack_back.0': '3.57', 'Date03_Sub05_chairblack.1': '3.20', 'Date03_Sub05_chairblack.2': '3.23', 'Date03_Sub05_chairblack.3': '3.66', 'Date03_Sub05_chairblack.0': '3.69', 'Date03_Sub03_boxmedium.0': '3.44', 'Date03_Sub03_boxmedium.2': '3.47', 'Date03_Sub03_boxmedium.3': '3.25', 'Date03_Sub03_boxmedium.1': '3.48', 'Date03_Sub04_keyboard_move.0': '2.82', 'Date03_Sub04_keyboard_move.2': '2.75', 'Date03_Sub04_keyboard_move.1': '2.67', 'Date03_Sub04_keyboard_move.3': '3.04', 'Date03_Sub04_tablesmall_hand.1': '3.24', 'Date03_Sub04_tablesmall_hand.0': '2.54', 'Date03_Sub04_tablesmall_hand.3': '3.42', 'Date03_Sub04_tablesmall_hand.2': '3.20', 'Date03_Sub04_stool_move.1': '3.26', 'Date03_Sub04_stool_move.0': '3.22', 'Date03_Sub04_stool_move.3': '3.33', 'Date03_Sub04_stool_move.2': '3.20', 'Date03_Sub05_stool.1': '3.30', 'Date03_Sub05_stool.3': '3.67', 'Date03_Sub05_stool.2': '3.27', 'Date03_Sub05_stool.0': '3.57', 'Date03_Sub03_toolbox.0': '3.30', 'Date03_Sub03_toolbox.1': '3.32', 'Date03_Sub03_toolbox.2': '3.28', 'Date03_Sub03_toolbox.3': '3.39', 'Date03_Sub03_basketball.3': '2.90', 'Date03_Sub03_basketball.2': '3.41', 'Date03_Sub03_basketball.0': '3.41', 'Date03_Sub03_basketball.1': '3.40', 'Date03_Sub04_chairblack_liftreal.1': '3.66', 'Date03_Sub04_chairblack_liftreal.0': '3.85', 'Date03_Sub04_chairblack_liftreal.2': '3.64', 'Date03_Sub04_chairblack_liftreal.3': '3.44', 'Date03_Sub04_yogamat.2': '3.45', 'Date03_Sub04_yogamat.0': '3.45', 'Date03_Sub04_yogamat.1': '3.41', 'Date03_Sub04_yogamat.3': '3.56', 'Date03_Sub03_boxtiny.0': '3.04', 'Date03_Sub03_boxtiny.2': '2.96', 'Date03_Sub03_boxtiny.1': '2.96', 'Date03_Sub03_boxtiny.3': '3.06', 'Date03_Sub04_keyboard_typing.1': '3.29', 'Date03_Sub04_keyboard_typing.2': '3.42', 'Date03_Sub04_keyboard_typing.3': '3.26', 'Date03_Sub04_keyboard_typing.0': '3.29', 'Date03_Sub04_yogaball_sit.2': '3.23', 'Date03_Sub04_yogaball_sit.3': '3.01', 'Date03_Sub04_yogaball_sit.1': '3.23', 'Date03_Sub04_yogaball_sit.0': '3.09', 'Date03_Sub04_chairblack_sit.3': '3.53', 'Date03_Sub04_chairblack_sit.2': '3.45', 'Date03_Sub04_chairblack_sit.1': '3.42', 'Date03_Sub04_chairblack_sit.0': '2.97', 'Date03_Sub03_stool_sit.3': '3.80', 'Date03_Sub03_stool_sit.2': '3.86', 'Date03_Sub03_stool_sit.1': '3.89', 'Date03_Sub03_stool_sit.0': '3.87', 'Date03_Sub03_chairblack_sitstand.3': '3.38', 'Date03_Sub03_chairblack_sitstand.1': '2.96', 'Date03_Sub03_chairblack_sitstand.0': '3.00', 'Date03_Sub03_chairblack_sitstand.2': '2.99', 'Date03_Sub04_chairwood_lift.1': '3.58', 'Date03_Sub04_chairwood_lift.0': '3.61', 'Date03_Sub04_chairwood_lift.3': '3.81', 'Date03_Sub04_chairwood_lift.2': '3.68', 'Date03_Sub04_boxmedium.3': '3.37', 'Date03_Sub04_boxmedium.1': '3.78', 'Date03_Sub04_boxmedium.0': '3.87', 'Date03_Sub04_boxmedium.2': '3.91', 'Date03_Sub04_boxlarge.1': '3.27', 'Date03_Sub04_boxlarge.0': '3.69', 'Date03_Sub04_boxlarge.2': '3.25', 'Date03_Sub04_boxlarge.3': '3.29', 'Date03_Sub03_suitcase_move.1': '2.99', 'Date03_Sub03_suitcase_move.3': '3.22', 'Date03_Sub03_suitcase_move.2': '2.98', 'Date03_Sub03_suitcase_move.0': '2.95', 'Date03_Sub04_backpack_hand.3': '3.52', 'Date03_Sub04_backpack_hand.2': '3.56', 'Date03_Sub04_backpack_hand.0': '3.73', 'Date03_Sub04_backpack_hand.1': '3.55', 'Date03_Sub03_trashbin.2': '3.11', 'Date03_Sub03_trashbin.0': '3.15', 'Date03_Sub03_trashbin.1': '3.14', 'Date03_Sub03_trashbin.3': '2.97', 'Date03_Sub05_boxmedium.2': '2.47', 'Date03_Sub05_boxmedium.1': '2.42', 'Date03_Sub05_boxmedium.3': '3.52', 'Date03_Sub05_boxmedium.0': '3.02', 'Date03_Sub03_monitor_move.3': '2.14', 'Date03_Sub03_monitor_move.1': '2.92', 'Date03_Sub03_monitor_move.0': '2.99', 'Date03_Sub03_monitor_move.2': '3.18', 'Date03_Sub05_chairwood.0': '3.47', 'Date03_Sub05_chairwood.2': '2.73', 'Date03_Sub05_chairwood.1': '2.80', 'Date03_Sub05_chairwood.3': '3.44', 'Date03_Sub05_monitor.3': '3.02', 'Date03_Sub05_monitor.1': '3.09', 'Date03_Sub05_monitor.2': '3.34', 'Date03_Sub05_monitor.0': '2.67', 'Date03_Sub05_keyboard.3': '2.84', 'Date03_Sub05_keyboard.0': '3.53', 'Date03_Sub05_keyboard.2': '3.42', 'Date03_Sub05_keyboard.1': '3.51', 'Date03_Sub04_chairwood_hand.1': '2.79', 'Date03_Sub04_chairwood_hand.0': '3.03', 'Date03_Sub04_chairwood_hand.3': '2.94', 'Date03_Sub04_chairwood_hand.2': '2.87', 'Date03_Sub05_basketball.0': '2.77', 'Date03_Sub05_basketball.1': '2.60', 'Date03_Sub05_basketball.2': '2.68', 'Date03_Sub05_basketball.3': '2.86', 'Date03_Sub04_trashbin.3': '3.50', 'Date03_Sub04_trashbin.1': '3.19', 'Date03_Sub04_trashbin.0': '3.22', 'Date03_Sub04_trashbin.2': '3.24', 'Date03_Sub03_tablesmall_move.0': '3.00', 'Date03_Sub03_tablesmall_move.2': '3.11', 'Date03_Sub03_tablesmall_move.3': '2.76', 'Date03_Sub03_tablesmall_move.1': '2.98', 'Date03_Sub03_chairwood_lift.2': '2.56', 'Date03_Sub03_chairwood_lift.3': '2.82', 'Date03_Sub03_chairwood_lift.1': '2.49', 'Date03_Sub03_chairwood_lift.0': '2.52', 'Date03_Sub04_tablesquare_sit.0': '3.33', 'Date03_Sub04_tablesquare_sit.1': '3.03', 'Date03_Sub04_tablesquare_sit.3': '2.64', 'Date03_Sub04_tablesquare_sit.2': '3.08', 'Date03_Sub03_chairwood_hand.0': '2.90', 'Date03_Sub03_chairwood_hand.3': '2.63', 'Date03_Sub03_chairwood_hand.1': '2.83', 'Date03_Sub03_chairwood_hand.2': '2.78', 'Date03_Sub04_stool_sit.3': '3.30', 'Date03_Sub04_stool_sit.1': '2.98', 'Date03_Sub04_stool_sit.0': '2.93', 'Date03_Sub04_stool_sit.2': '3.32', 'Date03_Sub03_chairblack_sit.3': '3.70', 'Date03_Sub03_chairblack_sit.2': '3.89', 'Date03_Sub03_chairblack_sit.1': '3.89', 'Date03_Sub03_chairblack_sit.0': '3.87', 'Date03_Sub05_yogamat.1': '3.00', 'Date03_Sub05_yogamat.0': '3.38', 'Date03_Sub05_yogamat.3': '3.07', 'Date03_Sub05_yogamat.2': '3.04', 'Date03_Sub05_suitcase.3': '2.73', 'Date03_Sub05_suitcase.0': '3.54', 'Date03_Sub05_suitcase.1': '3.01', 'Date03_Sub05_suitcase.2': '2.94', 'Date03_Sub04_tablesquare_hand.2': '3.43', 'Date03_Sub04_tablesquare_hand.1': '3.36', 'Date03_Sub04_tablesquare_hand.0': '3.45', 'Date03_Sub04_tablesquare_hand.3': '3.29', 'Date03_Sub03_yogaball_play.2': '3.15', 'Date03_Sub03_yogaball_play.1': '3.22', 'Date03_Sub03_yogaball_play.0': '3.20', 'Date03_Sub03_yogaball_play.3': '3.16', 'Date03_Sub04_boxsmall.0': '3.38', 'Date03_Sub04_boxsmall.2': '3.55', 'Date03_Sub04_boxsmall.1': '3.58', 'Date03_Sub04_boxsmall.3': '3.35', 'Date03_Sub04_tablesmall_lift.3': '3.33', 'Date03_Sub04_tablesmall_lift.1': '3.24', 'Date03_Sub04_tablesmall_lift.2': '3.30', 'Date03_Sub04_tablesmall_lift.0': '3.85', 'Date03_Sub04_chairwood_sit.2': '2.54', 'Date03_Sub04_chairwood_sit.0': '3.22', 'Date03_Sub04_chairwood_sit.1': '2.52', 'Date03_Sub04_chairwood_sit.3': '3.32', 'Date03_Sub05_boxtiny.0': '3.70', 'Date03_Sub05_boxtiny.3': '3.31', 'Date03_Sub05_boxtiny.1': '3.28', 'Date03_Sub05_boxtiny.2': '3.37', 'Date03_Sub05_tablesquare.2': '2.54', 'Date03_Sub05_tablesquare.0': '3.38', 'Date03_Sub05_tablesquare.3': '3.96', 'Date03_Sub05_tablesquare.1': '2.57', 'Date03_Sub04_toolbox.3': '3.41', 'Date03_Sub04_toolbox.1': '3.41', 'Date03_Sub04_toolbox.2': '3.31', 'Date03_Sub04_toolbox.0': '3.68', 'Date03_Sub05_boxsmall.2': '3.51', 'Date03_Sub05_boxsmall.3': '3.25', 'Date03_Sub05_boxsmall.1': '3.39', 'Date03_Sub05_boxsmall.0': '3.50', 'Date03_Sub03_backpack_back.0': '3.18', 'Date03_Sub03_backpack_back.3': '3.74', 'Date03_Sub03_backpack_back.1': '3.17', 'Date03_Sub03_backpack_back.2': '3.21', 'Date03_Sub03_keyboard_move.2': '2.59', 'Date03_Sub03_keyboard_move.0': '2.61', 'Date03_Sub03_keyboard_move.3': '2.55', 'Date03_Sub03_keyboard_move.1': '2.62', 'Date03_Sub04_monitor_hand.1': '4.12', 'Date03_Sub04_monitor_hand.0': '3.22', 'Date03_Sub04_monitor_hand.3': '2.84', 'Date03_Sub04_monitor_hand.2': '2.92', 'Date03_Sub04_tablesquare_lift.2': '2.97', 'Date03_Sub04_tablesquare_lift.3': '2.81', 'Date03_Sub04_tablesquare_lift.1': '3.02', 'Date03_Sub04_tablesquare_lift.0': '2.67', 'Date03_Sub04_basketball.0': '3.49', 'Date03_Sub04_basketball.3': '2.89', 'Date03_Sub04_basketball.2': '3.43', 'Date03_Sub04_basketball.1': '3.35', 'Date03_Sub03_backpack_hand.2': '3.06', 'Date03_Sub03_backpack_hand.1': '3.07', 'Date03_Sub03_backpack_hand.3': '3.42', 'Date03_Sub03_backpack_hand.0': '3.14', 'Date03_Sub04_yogaball_play.2': '2.74', 'Date03_Sub04_yogaball_play.3': '2.78', 'Date03_Sub04_yogaball_play.1': '2.74', 'Date03_Sub04_yogaball_play.0': '2.86', 'Date03_Sub03_boxlarge.0': '2.85', 'Date03_Sub03_boxlarge.3': '2.78', 'Date03_Sub03_boxlarge.1': '2.86', 'Date03_Sub03_boxlarge.2': '2.85', 'Date03_Sub03_yogamat.0': '3.20', 'Date03_Sub03_yogamat.2': '3.20', 'Date03_Sub03_yogamat.1': '3.27', 'Date03_Sub03_yogamat.3': '2.94', 'Date03_Sub04_suitcase_lift.0': '3.59', 'Date03_Sub04_suitcase_lift.1': '3.55', 'Date03_Sub04_suitcase_lift.2': '3.54', 'Date03_Sub04_suitcase_lift.3': '3.27', 'Date03_Sub03_chairblack_hand.0': '2.56', 'Date03_Sub03_chairblack_hand.2': '2.56', 'Date03_Sub03_chairblack_hand.3': '2.73', 'Date03_Sub03_chairblack_hand.1': '2.58', 'Date03_Sub03_tablesmall_lean.3': '3.83', 'Date03_Sub03_tablesmall_lean.1': '3.76', 'Date03_Sub03_tablesmall_lean.0': '3.75', 'Date03_Sub03_tablesmall_lean.2': '3.76', 'Date03_Sub04_suitcase_ground.1': '2.74', 'Date03_Sub04_suitcase_ground.2': '2.82', 'Date03_Sub04_suitcase_ground.0': '2.73', 'Date03_Sub04_suitcase_ground.3': '3.51', 'Date03_Sub05_backpack.0': '2.88', 'Date03_Sub05_backpack.1': '3.10', 'Date03_Sub05_backpack.2': '2.99', 'Date03_Sub05_backpack.3': '3.58', 'Date03_Sub05_toolbox.2': '3.29', 'Date03_Sub05_toolbox.1': '3.29', 'Date03_Sub05_toolbox.0': '3.66', 'Date03_Sub05_toolbox.3': '3.91', 'Date03_Sub03_stool_lift.3': '3.57', 'Date03_Sub03_stool_lift.2': '3.17', 'Date03_Sub03_stool_lift.0': '3.17', 'Date03_Sub03_stool_lift.1': '3.26', 'Date03_Sub04_boxlong.1': '2.38', 'Date03_Sub04_boxlong.0': '3.51', 'Date03_Sub04_boxlong.3': '3.79', 'Date03_Sub04_boxlong.2': '2.70', 'Date03_Sub03_keyboard_typing.3': '2.96', 'Date03_Sub03_keyboard_typing.2': '2.55', 'Date03_Sub03_keyboard_typing.1': '2.58', 'Date03_Sub03_keyboard_typing.0': '2.84', 'Date03_Sub04_monitor_move.3': '3.71', 'Date03_Sub04_monitor_move.2': '3.59', 'Date03_Sub04_monitor_move.1': '3.65', 'Date03_Sub04_monitor_move.0': '3.79', 'Date03_Sub05_plasticcontainer.3': '3.12', 'Date03_Sub05_plasticcontainer.2': '2.95', 'Date03_Sub05_plasticcontainer.1': '2.97', 'Date03_Sub05_plasticcontainer.0': '2.92', 'Date03_Sub03_plasticcontainer.3': '3.54', 'Date03_Sub03_plasticcontainer.1': '3.18', 'Date03_Sub03_plasticcontainer.0': '3.27', 'Date03_Sub03_plasticcontainer.2': '3.17', 'Date03_Sub03_tablesquare_lift.2': '2.79', 'Date03_Sub03_tablesquare_lift.3': '2.70', 'Date03_Sub03_tablesquare_lift.1': '2.87', 'Date03_Sub03_tablesquare_lift.0': '2.88', 'Date03_Sub03_chairblack_lift.1': '3.02', 'Date03_Sub03_chairblack_lift.0': '3.05', 'Date03_Sub03_chairblack_lift.3': '2.78', 'Date03_Sub03_chairblack_lift.2': '3.07', 'Date03_Sub05_yogaball.3': '2.88', 'Date03_Sub05_yogaball.2': '3.01', 'Date03_Sub05_yogaball.1': '3.09', 'Date03_Sub05_yogaball.0': '2.67', 'Date03_Sub04_chairblack_hand.0': '3.06', 'Date03_Sub04_chairblack_hand.3': '2.76', 'Date03_Sub04_chairblack_hand.2': '3.15', 'Date03_Sub04_chairblack_hand.1': '3.17', 'Date03_Sub05_boxlong.3': '3.42', 'Date03_Sub05_boxlong.2': '3.44', 'Date03_Sub05_boxlong.1': '3.47', 'Date03_Sub05_boxlong.0': '2.57', 'Date03_Sub03_suitcase_lift.3': '3.46', 'Date03_Sub03_suitcase_lift.1': '3.36', 'Date03_Sub03_suitcase_lift.0': '3.34', 'Date03_Sub03_suitcase_lift.2': '3.38', 'Date03_Sub05_trashbin.1': '2.84', 'Date03_Sub05_trashbin.3': '2.83', 'Date03_Sub05_trashbin.2': '2.83', 'Date03_Sub05_trashbin.0': '2.86', 'Date03_Sub04_plasticcontainer_lift.1': '3.30', 'Date03_Sub04_plasticcontainer_lift.3': '3.32', 'Date03_Sub04_plasticcontainer_lift.2': '3.39', 'Date03_Sub04_plasticcontainer_lift.0': '3.40', 'Date03_Sub03_boxsmall.2': '3.05', 'Date03_Sub03_boxsmall.3': '3.06', 'Date03_Sub03_boxsmall.1': '3.06', 'Date03_Sub03_boxsmall.0': '3.05', 'Date03_Sub03_backpack_hug.1': '3.23', 'Date03_Sub03_backpack_hug.3': '3.41', 'Date03_Sub03_backpack_hug.0': '3.16', 'Date03_Sub03_backpack_hug.2': '3.19', 'Date03_Sub05_boxlarge.3': '3.64', 'Date03_Sub05_boxlarge.1': '3.23', 'Date03_Sub05_boxlarge.2': '3.36', 'Date03_Sub05_boxlarge.0': '3.22', 'Date03_Sub04_boxtiny.2': '3.77', 'Date03_Sub04_boxtiny.1': '3.84', 'Date03_Sub04_boxtiny.0': '3.77', 'Date03_Sub04_boxtiny.3': '3.43', 'Date03_Sub04_tablesmall_lean.3': '2.76', 'Date03_Sub04_tablesmall_lean.2': '2.70', 'Date03_Sub04_tablesmall_lean.0': '3.60', 'Date03_Sub04_tablesmall_lean.1': '2.61', 'Date03_Sub03_tablesmall_lift.3': '3.29', 'Date03_Sub03_tablesmall_lift.0': '3.32', 'Date03_Sub03_tablesmall_lift.2': '3.30', 'Date03_Sub03_tablesmall_lift.1': '3.30', 'Date03_Sub03_tablesquare_sit.3': '3.72', 'Date03_Sub03_tablesquare_sit.0': '3.70', 'Date03_Sub03_tablesquare_sit.2': '3.72', 'Date03_Sub03_tablesquare_sit.1': '3.73', 'Date03_Sub03_yogaball_sit.3': '3.66', 'Date03_Sub03_yogaball_sit.2': '3.87', 'Date03_Sub03_yogaball_sit.1': '3.89', 'Date03_Sub03_yogaball_sit.0': '3.88', 'Date03_Sub05_tablesmall.3': '3.04', 'Date03_Sub05_tablesmall.0': '3.33', 'Date03_Sub05_tablesmall.1': '3.22', 'Date03_Sub05_tablesmall.2': '3.21', 'Date03_Sub03_tablesquare_move.0': '2.31', 'Date03_Sub03_tablesquare_move.1': '2.36', 'Date03_Sub03_tablesquare_move.2': '2.29', 'Date03_Sub03_tablesquare_move.3': '2.31', 'Date03_Sub03_chairwood_sit.1': '4.26', 'Date03_Sub03_chairwood_sit.0': '4.24', 'Date03_Sub03_chairwood_sit.3': '3.84', 'Date03_Sub03_chairwood_sit.2': '4.10', 'Date03_Sub03_boxlong.0': '2.82', 'Date03_Sub03_boxlong.2': '2.83', 'Date03_Sub03_boxlong.3': '3.47', 'Date03_Sub03_boxlong.1': '2.82', 'Date03_Sub04_backpack_hug.0': '3.89', 'Date03_Sub04_backpack_hug.1': '3.89', 'Date03_Sub04_backpack_hug.2': '3.84', 'Date03_Sub04_backpack_hug.3': '4.06'}
+Overall average PA Chamfer distance:  3.21
+Average v2v error per scene-camera:
+  Date03_Sub04_backpack_back.2.color_1fps_frames: 1.65
+  Date03_Sub04_backpack_back.3.color_1fps_frames: 2.11
+  Date03_Sub04_backpack_back.1.color_1fps_frames: 1.63
+  Date03_Sub04_backpack_back.0.color_1fps_frames: 2.02
+  Date03_Sub05_chairblack.1.color_1fps_frames: 1.90
+  Date03_Sub05_chairblack.2.color_1fps_frames: 1.94
+  Date03_Sub05_chairblack.3.color_1fps_frames: 2.13
+  Date03_Sub05_chairblack.0.color_1fps_frames: 2.14
+  Date03_Sub03_boxmedium.0.color_1fps_frames: 2.00
+  Date03_Sub03_boxmedium.2.color_1fps_frames: 2.01
+  Date03_Sub03_boxmedium.3.color_1fps_frames: 1.92
+  Date03_Sub03_boxmedium.1.color_1fps_frames: 2.02
+  Date03_Sub04_keyboard_move.0.color_1fps_frames: 1.67
+  Date03_Sub04_keyboard_move.2.color_1fps_frames: 1.65
+  Date03_Sub04_keyboard_move.1.color_1fps_frames: 1.63
+  Date03_Sub04_keyboard_move.3.color_1fps_frames: 1.78
+  Date03_Sub04_tablesmall_hand.1.color_1fps_frames: 1.97
+  Date03_Sub04_tablesmall_hand.0.color_1fps_frames: 1.64
+  Date03_Sub04_tablesmall_hand.3.color_1fps_frames: 2.02
+  Date03_Sub04_tablesmall_hand.2.color_1fps_frames: 1.96
+  Date03_Sub04_stool_move.1.color_1fps_frames: 2.04
+  Date03_Sub04_stool_move.0.color_1fps_frames: 1.98
+  Date03_Sub04_stool_move.3.color_1fps_frames: 2.03
+  Date03_Sub04_stool_move.2.color_1fps_frames: 2.05
+  Date03_Sub05_stool.1.color_1fps_frames: 1.92
+  Date03_Sub05_stool.3.color_1fps_frames: 2.12
+  Date03_Sub05_stool.2.color_1fps_frames: 1.89
+  Date03_Sub05_stool.0.color_1fps_frames: 2.06
+  Date03_Sub03_toolbox.0.color_1fps_frames: 1.94
+  Date03_Sub03_toolbox.1.color_1fps_frames: 1.96
+  Date03_Sub03_toolbox.2.color_1fps_frames: 1.93
+  Date03_Sub03_toolbox.3.color_1fps_frames: 1.93
+  Date03_Sub03_basketball.3.color_1fps_frames: 1.72
+  Date03_Sub03_basketball.2.color_1fps_frames: 1.97
+  Date03_Sub03_basketball.0.color_1fps_frames: 1.96
+  Date03_Sub03_basketball.1.color_1fps_frames: 1.96
+  Date03_Sub04_chairblack_liftreal.1.color_1fps_frames: 2.11
+  Date03_Sub04_chairblack_liftreal.0.color_1fps_frames: 2.21
+  Date03_Sub04_chairblack_liftreal.2.color_1fps_frames: 2.10
+  Date03_Sub04_chairblack_liftreal.3.color_1fps_frames: 2.00
+  Date03_Sub04_yogamat.2.color_1fps_frames: 2.21
+  Date03_Sub04_yogamat.0.color_1fps_frames: 2.00
+  Date03_Sub04_yogamat.1.color_1fps_frames: 2.15
+  Date03_Sub04_yogamat.3.color_1fps_frames: 2.08
+  Date03_Sub03_boxtiny.0.color_1fps_frames: 1.79
+  Date03_Sub03_boxtiny.2.color_1fps_frames: 1.76
+  Date03_Sub03_boxtiny.1.color_1fps_frames: 1.76
+  Date03_Sub03_boxtiny.3.color_1fps_frames: 1.81
+  Date03_Sub04_keyboard_typing.1.color_1fps_frames: 1.94
+  Date03_Sub04_keyboard_typing.2.color_1fps_frames: 2.03
+  Date03_Sub04_keyboard_typing.3.color_1fps_frames: 1.94
+  Date03_Sub04_keyboard_typing.0.color_1fps_frames: 1.95
+  Date03_Sub04_yogaball_sit.2.color_1fps_frames: 2.07
+  Date03_Sub04_yogaball_sit.3.color_1fps_frames: 1.97
+  Date03_Sub04_yogaball_sit.1.color_1fps_frames: 2.06
+  Date03_Sub04_yogaball_sit.0.color_1fps_frames: 1.87
+  Date03_Sub04_chairblack_sit.3.color_1fps_frames: 2.07
+  Date03_Sub04_chairblack_sit.2.color_1fps_frames: 2.06
+  Date03_Sub04_chairblack_sit.1.color_1fps_frames: 2.05
+  Date03_Sub04_chairblack_sit.0.color_1fps_frames: 1.81
+  Date03_Sub03_stool_sit.3.color_1fps_frames: 2.23
+  Date03_Sub03_stool_sit.2.color_1fps_frames: 2.30
+  Date03_Sub03_stool_sit.1.color_1fps_frames: 2.32
+  Date03_Sub03_stool_sit.0.color_1fps_frames: 2.30
+  Date03_Sub03_chairblack_sitstand.3.color_1fps_frames: 2.06
+  Date03_Sub03_chairblack_sitstand.1.color_1fps_frames: 1.82
+  Date03_Sub03_chairblack_sitstand.0.color_1fps_frames: 1.84
+  Date03_Sub03_chairblack_sitstand.2.color_1fps_frames: 1.84
+  Date03_Sub04_chairwood_lift.1.color_1fps_frames: 2.05
+  Date03_Sub04_chairwood_lift.0.color_1fps_frames: 2.06
+  Date03_Sub04_chairwood_lift.3.color_1fps_frames: 2.17
+  Date03_Sub04_chairwood_lift.2.color_1fps_frames: 2.11
+  Date03_Sub04_boxmedium.3.color_1fps_frames: 1.93
+  Date03_Sub04_boxmedium.1.color_1fps_frames: 2.17
+  Date03_Sub04_boxmedium.0.color_1fps_frames: 2.20
+  Date03_Sub04_boxmedium.2.color_1fps_frames: 2.23
+  Date03_Sub04_boxlarge.1.color_1fps_frames: 1.99
+  Date03_Sub04_boxlarge.0.color_1fps_frames: 2.12
+  Date03_Sub04_boxlarge.2.color_1fps_frames: 2.02
+  Date03_Sub04_boxlarge.3.color_1fps_frames: 1.92
+  Date03_Sub03_suitcase_move.1.color_1fps_frames: 1.85
+  Date03_Sub03_suitcase_move.3.color_1fps_frames: 1.87
+  Date03_Sub03_suitcase_move.2.color_1fps_frames: 1.86
+  Date03_Sub03_suitcase_move.0.color_1fps_frames: 1.82
+  Date03_Sub04_backpack_hand.3.color_1fps_frames: 2.00
+  Date03_Sub04_backpack_hand.2.color_1fps_frames: 2.03
+  Date03_Sub04_backpack_hand.0.color_1fps_frames: 2.12
+  Date03_Sub04_backpack_hand.1.color_1fps_frames: 2.03
+  Date03_Sub03_trashbin.2.color_1fps_frames: 1.89
+  Date03_Sub03_trashbin.0.color_1fps_frames: 1.88
+  Date03_Sub03_trashbin.1.color_1fps_frames: 1.89
+  Date03_Sub03_trashbin.3.color_1fps_frames: 1.90
+  Date03_Sub05_boxmedium.2.color_1fps_frames: 1.48
+  Date03_Sub05_boxmedium.1.color_1fps_frames: 1.47
+  Date03_Sub05_boxmedium.3.color_1fps_frames: 2.02
+  Date03_Sub05_boxmedium.0.color_1fps_frames: 1.76
+  Date03_Sub03_monitor_move.3.color_1fps_frames: 1.32
+  Date03_Sub03_monitor_move.1.color_1fps_frames: 1.72
+  Date03_Sub03_monitor_move.0.color_1fps_frames: 1.75
+  Date03_Sub03_monitor_move.2.color_1fps_frames: 1.84
+  Date03_Sub05_chairwood.0.color_1fps_frames: 2.02
+  Date03_Sub05_chairwood.2.color_1fps_frames: 1.66
+  Date03_Sub05_chairwood.1.color_1fps_frames: 1.68
+  Date03_Sub05_chairwood.3.color_1fps_frames: 2.00
+  Date03_Sub05_monitor.3.color_1fps_frames: 1.80
+  Date03_Sub05_monitor.1.color_1fps_frames: 1.82
+  Date03_Sub05_monitor.2.color_1fps_frames: 1.96
+  Date03_Sub05_monitor.0.color_1fps_frames: 1.67
+  Date03_Sub05_keyboard.3.color_1fps_frames: 1.68
+  Date03_Sub05_keyboard.0.color_1fps_frames: 2.01
+  Date03_Sub05_keyboard.2.color_1fps_frames: 1.95
+  Date03_Sub05_keyboard.1.color_1fps_frames: 2.00
+  Date03_Sub04_chairwood_hand.1.color_1fps_frames: 1.66
+  Date03_Sub04_chairwood_hand.0.color_1fps_frames: 1.78
+  Date03_Sub04_chairwood_hand.3.color_1fps_frames: 1.77
+  Date03_Sub04_chairwood_hand.2.color_1fps_frames: 1.71
+  Date03_Sub05_basketball.0.color_1fps_frames: 1.83
+  Date03_Sub05_basketball.1.color_1fps_frames: 1.68
+  Date03_Sub05_basketball.2.color_1fps_frames: 1.70
+  Date03_Sub05_basketball.3.color_1fps_frames: 1.70
+  Date03_Sub04_trashbin.3.color_1fps_frames: 1.99
+  Date03_Sub04_trashbin.1.color_1fps_frames: 1.84
+  Date03_Sub04_trashbin.0.color_1fps_frames: 1.86
+  Date03_Sub04_trashbin.2.color_1fps_frames: 1.86
+  Date03_Sub03_tablesmall_move.0.color_1fps_frames: 1.75
+  Date03_Sub03_tablesmall_move.2.color_1fps_frames: 1.83
+  Date03_Sub03_tablesmall_move.3.color_1fps_frames: 1.65
+  Date03_Sub03_tablesmall_move.1.color_1fps_frames: 1.74
+  Date03_Sub03_chairwood_lift.2.color_1fps_frames: 1.55
+  Date03_Sub03_chairwood_lift.3.color_1fps_frames: 1.69
+  Date03_Sub03_chairwood_lift.1.color_1fps_frames: 1.52
+  Date03_Sub03_chairwood_lift.0.color_1fps_frames: 1.54
+  Date03_Sub04_tablesquare_sit.0.color_1fps_frames: 2.00
+  Date03_Sub04_tablesquare_sit.1.color_1fps_frames: 1.81
+  Date03_Sub04_tablesquare_sit.3.color_1fps_frames: 1.74
+  Date03_Sub04_tablesquare_sit.2.color_1fps_frames: 1.83
+  Date03_Sub03_chairwood_hand.0.color_1fps_frames: 1.71
+  Date03_Sub03_chairwood_hand.3.color_1fps_frames: 1.56
+  Date03_Sub03_chairwood_hand.1.color_1fps_frames: 1.68
+  Date03_Sub03_chairwood_hand.2.color_1fps_frames: 1.65
+  Date03_Sub04_stool_sit.3.color_1fps_frames: 1.99
+  Date03_Sub04_stool_sit.1.color_1fps_frames: 1.79
+  Date03_Sub04_stool_sit.0.color_1fps_frames: 1.77
+  Date03_Sub04_stool_sit.2.color_1fps_frames: 1.99
+  Date03_Sub03_chairblack_sit.3.color_1fps_frames: 2.18
+  Date03_Sub03_chairblack_sit.2.color_1fps_frames: 2.46
+  Date03_Sub03_chairblack_sit.1.color_1fps_frames: 2.47
+  Date03_Sub03_chairblack_sit.0.color_1fps_frames: 2.50
+  Date03_Sub05_yogamat.1.color_1fps_frames: 1.77
+  Date03_Sub05_yogamat.0.color_1fps_frames: 1.96
+  Date03_Sub05_yogamat.3.color_1fps_frames: 1.82
+  Date03_Sub05_yogamat.2.color_1fps_frames: 1.79
+  Date03_Sub05_suitcase.3.color_1fps_frames: 1.62
+  Date03_Sub05_suitcase.0.color_1fps_frames: 2.01
+  Date03_Sub05_suitcase.1.color_1fps_frames: 1.84
+  Date03_Sub05_suitcase.2.color_1fps_frames: 1.78
+  Date03_Sub04_tablesquare_hand.2.color_1fps_frames: 2.08
+  Date03_Sub04_tablesquare_hand.1.color_1fps_frames: 2.04
+  Date03_Sub04_tablesquare_hand.0.color_1fps_frames: 2.02
+  Date03_Sub04_tablesquare_hand.3.color_1fps_frames: 1.92
+  Date03_Sub03_yogaball_play.2.color_1fps_frames: 1.87
+  Date03_Sub03_yogaball_play.1.color_1fps_frames: 1.91
+  Date03_Sub03_yogaball_play.0.color_1fps_frames: 1.91
+  Date03_Sub03_yogaball_play.3.color_1fps_frames: 1.89
+  Date03_Sub04_boxsmall.0.color_1fps_frames: 1.94
+  Date03_Sub04_boxsmall.2.color_1fps_frames: 2.05
+  Date03_Sub04_boxsmall.1.color_1fps_frames: 2.06
+  Date03_Sub04_boxsmall.3.color_1fps_frames: 1.93
+  Date03_Sub04_tablesmall_lift.3.color_1fps_frames: 1.93
+  Date03_Sub04_tablesmall_lift.1.color_1fps_frames: 1.90
+  Date03_Sub04_tablesmall_lift.2.color_1fps_frames: 1.93
+  Date03_Sub04_tablesmall_lift.0.color_1fps_frames: 2.19
+  Date03_Sub04_chairwood_sit.2.color_1fps_frames: 1.56
+  Date03_Sub04_chairwood_sit.0.color_1fps_frames: 1.94
+  Date03_Sub04_chairwood_sit.1.color_1fps_frames: 1.55
+  Date03_Sub04_chairwood_sit.3.color_1fps_frames: 1.96
+  Date03_Sub05_boxtiny.0.color_1fps_frames: 2.12
+  Date03_Sub05_boxtiny.3.color_1fps_frames: 1.93
+  Date03_Sub05_boxtiny.1.color_1fps_frames: 1.91
+  Date03_Sub05_boxtiny.2.color_1fps_frames: 1.95
+  Date03_Sub05_tablesquare.2.color_1fps_frames: 1.55
+  Date03_Sub05_tablesquare.0.color_1fps_frames: 2.02
+  Date03_Sub05_tablesquare.3.color_1fps_frames: 2.29
+  Date03_Sub05_tablesquare.1.color_1fps_frames: 1.57
+  Date03_Sub04_toolbox.3.color_1fps_frames: 1.97
+  Date03_Sub04_toolbox.1.color_1fps_frames: 1.97
+  Date03_Sub04_toolbox.2.color_1fps_frames: 1.93
+  Date03_Sub04_toolbox.0.color_1fps_frames: 2.08
+  Date03_Sub05_boxsmall.2.color_1fps_frames: 2.02
+  Date03_Sub05_boxsmall.3.color_1fps_frames: 1.89
+  Date03_Sub05_boxsmall.1.color_1fps_frames: 1.96
+  Date03_Sub05_boxsmall.0.color_1fps_frames: 2.00
+  Date03_Sub03_backpack_back.0.color_1fps_frames: 1.84
+  Date03_Sub03_backpack_back.3.color_1fps_frames: 2.13
+  Date03_Sub03_backpack_back.1.color_1fps_frames: 1.82
+  Date03_Sub03_backpack_back.2.color_1fps_frames: 1.85
+  Date03_Sub03_keyboard_move.2.color_1fps_frames: 1.63
+  Date03_Sub03_keyboard_move.0.color_1fps_frames: 1.62
+  Date03_Sub03_keyboard_move.3.color_1fps_frames: 1.58
+  Date03_Sub03_keyboard_move.1.color_1fps_frames: 1.63
+  Date03_Sub04_monitor_hand.1.color_1fps_frames: 2.45
+  Date03_Sub04_monitor_hand.0.color_1fps_frames: 1.91
+  Date03_Sub04_monitor_hand.3.color_1fps_frames: 1.72
+  Date03_Sub04_monitor_hand.2.color_1fps_frames: 1.76
+  Date03_Sub04_tablesquare_lift.2.color_1fps_frames: 1.77
+  Date03_Sub04_tablesquare_lift.3.color_1fps_frames: 1.69
+  Date03_Sub04_tablesquare_lift.1.color_1fps_frames: 1.79
+  Date03_Sub04_tablesquare_lift.0.color_1fps_frames: 1.62
+  Date03_Sub04_basketball.0.color_1fps_frames: 2.01
+  Date03_Sub04_basketball.3.color_1fps_frames: 1.71
+  Date03_Sub04_basketball.2.color_1fps_frames: 1.97
+  Date03_Sub04_basketball.1.color_1fps_frames: 1.93
+  Date03_Sub03_backpack_hand.2.color_1fps_frames: 1.79
+  Date03_Sub03_backpack_hand.1.color_1fps_frames: 1.80
+  Date03_Sub03_backpack_hand.3.color_1fps_frames: 1.96
+  Date03_Sub03_backpack_hand.0.color_1fps_frames: 1.85
+  Date03_Sub04_yogaball_play.2.color_1fps_frames: 1.64
+  Date03_Sub04_yogaball_play.3.color_1fps_frames: 1.66
+  Date03_Sub04_yogaball_play.1.color_1fps_frames: 1.64
+  Date03_Sub04_yogaball_play.0.color_1fps_frames: 1.68
+  Date03_Sub03_boxlarge.0.color_1fps_frames: 1.70
+  Date03_Sub03_boxlarge.3.color_1fps_frames: 1.67
+  Date03_Sub03_boxlarge.1.color_1fps_frames: 1.71
+  Date03_Sub03_boxlarge.2.color_1fps_frames: 1.71
+  Date03_Sub03_yogamat.0.color_1fps_frames: 1.88
+  Date03_Sub03_yogamat.2.color_1fps_frames: 1.89
+  Date03_Sub03_yogamat.1.color_1fps_frames: 1.92
+  Date03_Sub03_yogamat.3.color_1fps_frames: 1.73
+  Date03_Sub04_suitcase_lift.0.color_1fps_frames: 2.06
+  Date03_Sub04_suitcase_lift.1.color_1fps_frames: 2.03
+  Date03_Sub04_suitcase_lift.2.color_1fps_frames: 2.03
+  Date03_Sub04_suitcase_lift.3.color_1fps_frames: 1.89
+  Date03_Sub03_chairblack_hand.0.color_1fps_frames: 1.60
+  Date03_Sub03_chairblack_hand.2.color_1fps_frames: 1.58
+  Date03_Sub03_chairblack_hand.3.color_1fps_frames: 1.66
+  Date03_Sub03_chairblack_hand.1.color_1fps_frames: 1.60
+  Date03_Sub03_tablesmall_lean.3.color_1fps_frames: 2.13
+  Date03_Sub03_tablesmall_lean.1.color_1fps_frames: 2.11
+  Date03_Sub03_tablesmall_lean.0.color_1fps_frames: 2.10
+  Date03_Sub03_tablesmall_lean.2.color_1fps_frames: 2.11
+  Date03_Sub04_suitcase_ground.1.color_1fps_frames: 1.61
+  Date03_Sub04_suitcase_ground.2.color_1fps_frames: 1.64
+  Date03_Sub04_suitcase_ground.0.color_1fps_frames: 1.60
+  Date03_Sub04_suitcase_ground.3.color_1fps_frames: 2.01
+  Date03_Sub05_backpack.0.color_1fps_frames: 1.74
+  Date03_Sub05_backpack.1.color_1fps_frames: 1.85
+  Date03_Sub05_backpack.2.color_1fps_frames: 1.79
+  Date03_Sub05_backpack.3.color_1fps_frames: 2.06
+  Date03_Sub05_toolbox.2.color_1fps_frames: 1.91
+  Date03_Sub05_toolbox.1.color_1fps_frames: 1.91
+  Date03_Sub05_toolbox.0.color_1fps_frames: 2.08
+  Date03_Sub05_toolbox.3.color_1fps_frames: 2.22
+  Date03_Sub03_stool_lift.3.color_1fps_frames: 2.05
+  Date03_Sub03_stool_lift.2.color_1fps_frames: 1.88
+  Date03_Sub03_stool_lift.0.color_1fps_frames: 1.88
+  Date03_Sub03_stool_lift.1.color_1fps_frames: 1.94
+  Date03_Sub04_boxlong.1.color_1fps_frames: 1.45
+  Date03_Sub04_boxlong.0.color_1fps_frames: 2.02
+  Date03_Sub04_boxlong.3.color_1fps_frames: 2.16
+  Date03_Sub04_boxlong.2.color_1fps_frames: 1.62
+  Date03_Sub03_keyboard_typing.3.color_1fps_frames: 1.77
+  Date03_Sub03_keyboard_typing.2.color_1fps_frames: 1.57
+  Date03_Sub03_keyboard_typing.1.color_1fps_frames: 1.58
+  Date03_Sub03_keyboard_typing.0.color_1fps_frames: 1.71
+  Date03_Sub04_monitor_move.3.color_1fps_frames: 2.11
+  Date03_Sub04_monitor_move.2.color_1fps_frames: 2.06
+  Date03_Sub04_monitor_move.1.color_1fps_frames: 2.10
+  Date03_Sub04_monitor_move.0.color_1fps_frames: 2.14
+  Date03_Sub05_plasticcontainer.3.color_1fps_frames: 1.80
+  Date03_Sub05_plasticcontainer.2.color_1fps_frames: 1.74
+  Date03_Sub05_plasticcontainer.1.color_1fps_frames: 1.75
+  Date03_Sub05_plasticcontainer.0.color_1fps_frames: 1.76
+  Date03_Sub03_plasticcontainer.3.color_1fps_frames: 2.05
+  Date03_Sub03_plasticcontainer.1.color_1fps_frames: 1.84
+  Date03_Sub03_plasticcontainer.0.color_1fps_frames: 1.88
+  Date03_Sub03_plasticcontainer.2.color_1fps_frames: 1.83
+  Date03_Sub03_tablesquare_lift.2.color_1fps_frames: 1.71
+  Date03_Sub03_tablesquare_lift.3.color_1fps_frames: 1.70
+  Date03_Sub03_tablesquare_lift.1.color_1fps_frames: 1.75
+  Date03_Sub03_tablesquare_lift.0.color_1fps_frames: 1.75
+  Date03_Sub03_chairblack_lift.1.color_1fps_frames: 1.82
+  Date03_Sub03_chairblack_lift.0.color_1fps_frames: 1.83
+  Date03_Sub03_chairblack_lift.3.color_1fps_frames: 1.71
+  Date03_Sub03_chairblack_lift.2.color_1fps_frames: 1.85
+  Date03_Sub05_yogaball.3.color_1fps_frames: 1.73
+  Date03_Sub05_yogaball.2.color_1fps_frames: 1.86
+  Date03_Sub05_yogaball.1.color_1fps_frames: 1.92
+  Date03_Sub05_yogaball.0.color_1fps_frames: 1.62
+  Date03_Sub04_chairblack_hand.0.color_1fps_frames: 1.82
+  Date03_Sub04_chairblack_hand.3.color_1fps_frames: 1.68
+  Date03_Sub04_chairblack_hand.2.color_1fps_frames: 1.85
+  Date03_Sub04_chairblack_hand.1.color_1fps_frames: 1.85
+  Date03_Sub05_boxlong.3.color_1fps_frames: 1.99
+  Date03_Sub05_boxlong.2.color_1fps_frames: 1.98
+  Date03_Sub05_boxlong.1.color_1fps_frames: 2.01
+  Date03_Sub05_boxlong.0.color_1fps_frames: 1.52
+  Date03_Sub03_suitcase_lift.3.color_1fps_frames: 2.13
+  Date03_Sub03_suitcase_lift.1.color_1fps_frames: 1.93
+  Date03_Sub03_suitcase_lift.0.color_1fps_frames: 1.92
+  Date03_Sub03_suitcase_lift.2.color_1fps_frames: 1.94
+  Date03_Sub05_trashbin.1.color_1fps_frames: 1.71
+  Date03_Sub05_trashbin.3.color_1fps_frames: 1.68
+  Date03_Sub05_trashbin.2.color_1fps_frames: 1.72
+  Date03_Sub05_trashbin.0.color_1fps_frames: 1.71
+  Date03_Sub04_plasticcontainer_lift.1.color_1fps_frames: 1.90
+  Date03_Sub04_plasticcontainer_lift.3.color_1fps_frames: 1.91
+  Date03_Sub04_plasticcontainer_lift.2.color_1fps_frames: 1.94
+  Date03_Sub04_plasticcontainer_lift.0.color_1fps_frames: 1.95
+  Date03_Sub03_boxsmall.2.color_1fps_frames: 1.77
+  Date03_Sub03_boxsmall.3.color_1fps_frames: 1.80
+  Date03_Sub03_boxsmall.1.color_1fps_frames: 1.78
+  Date03_Sub03_boxsmall.0.color_1fps_frames: 1.77
+  Date03_Sub03_backpack_hug.1.color_1fps_frames: 1.88
+  Date03_Sub03_backpack_hug.3.color_1fps_frames: 1.97
+  Date03_Sub03_backpack_hug.0.color_1fps_frames: 1.84
+  Date03_Sub03_backpack_hug.2.color_1fps_frames: 1.86
+  Date03_Sub05_boxlarge.3.color_1fps_frames: 2.09
+  Date03_Sub05_boxlarge.1.color_1fps_frames: 1.88
+  Date03_Sub05_boxlarge.2.color_1fps_frames: 1.95
+  Date03_Sub05_boxlarge.0.color_1fps_frames: 1.85
+  Date03_Sub04_boxtiny.2.color_1fps_frames: 2.17
+  Date03_Sub04_boxtiny.1.color_1fps_frames: 2.20
+  Date03_Sub04_boxtiny.0.color_1fps_frames: 2.13
+  Date03_Sub04_boxtiny.3.color_1fps_frames: 1.99
+  Date03_Sub04_tablesmall_lean.3.color_1fps_frames: 1.67
+  Date03_Sub04_tablesmall_lean.2.color_1fps_frames: 1.69
+  Date03_Sub04_tablesmall_lean.0.color_1fps_frames: 2.06
+  Date03_Sub04_tablesmall_lean.1.color_1fps_frames: 1.65
+  Date03_Sub03_tablesmall_lift.3.color_1fps_frames: 2.03
+  Date03_Sub03_tablesmall_lift.0.color_1fps_frames: 1.95
+  Date03_Sub03_tablesmall_lift.2.color_1fps_frames: 1.94
+  Date03_Sub03_tablesmall_lift.1.color_1fps_frames: 1.94
+  Date03_Sub03_tablesquare_sit.3.color_1fps_frames: 2.18
+  Date03_Sub03_tablesquare_sit.0.color_1fps_frames: 2.17
+  Date03_Sub03_tablesquare_sit.2.color_1fps_frames: 2.19
+  Date03_Sub03_tablesquare_sit.1.color_1fps_frames: 2.19
+  Date03_Sub03_yogaball_sit.3.color_1fps_frames: 2.10
+  Date03_Sub03_yogaball_sit.2.color_1fps_frames: 2.23
+  Date03_Sub03_yogaball_sit.1.color_1fps_frames: 2.24
+  Date03_Sub03_yogaball_sit.0.color_1fps_frames: 2.23
+  Date03_Sub05_tablesmall.3.color_1fps_frames: 1.77
+  Date03_Sub05_tablesmall.0.color_1fps_frames: 1.92
+  Date03_Sub05_tablesmall.1.color_1fps_frames: 1.88
+  Date03_Sub05_tablesmall.2.color_1fps_frames: 1.87
+  Date03_Sub03_tablesquare_move.0.color_1fps_frames: 1.56
+  Date03_Sub03_tablesquare_move.1.color_1fps_frames: 1.60
+  Date03_Sub03_tablesquare_move.2.color_1fps_frames: 1.57
+  Date03_Sub03_tablesquare_move.3.color_1fps_frames: 1.55
+  Date03_Sub03_chairwood_sit.1.color_1fps_frames: 2.46
+  Date03_Sub03_chairwood_sit.0.color_1fps_frames: 2.46
+  Date03_Sub03_chairwood_sit.3.color_1fps_frames: 2.21
+  Date03_Sub03_chairwood_sit.2.color_1fps_frames: 2.44
+  Date03_Sub03_boxlong.0.color_1fps_frames: 1.70
+  Date03_Sub03_boxlong.2.color_1fps_frames: 1.71
+  Date03_Sub03_boxlong.3.color_1fps_frames: 2.05
+  Date03_Sub03_boxlong.1.color_1fps_frames: 1.70
+  Date03_Sub04_backpack_hug.0.color_1fps_frames: 2.18
+  Date03_Sub04_backpack_hug.1.color_1fps_frames: 2.21
+  Date03_Sub04_backpack_hug.2.color_1fps_frames: 2.18
+  Date03_Sub04_backpack_hug.3.color_1fps_frames: 2.25
+
+Average v2v error per scene:
+  Date03_Sub04_backpack_back.2: 1.65
+  Date03_Sub04_backpack_back.3: 2.11
+  Date03_Sub04_backpack_back.1: 1.63
+  Date03_Sub04_backpack_back.0: 2.02
+  Date03_Sub05_chairblack.1: 1.90
+  Date03_Sub05_chairblack.2: 1.94
+  Date03_Sub05_chairblack.3: 2.13
+  Date03_Sub05_chairblack.0: 2.14
+  Date03_Sub03_boxmedium.0: 2.00
+  Date03_Sub03_boxmedium.2: 2.01
+  Date03_Sub03_boxmedium.3: 1.92
+  Date03_Sub03_boxmedium.1: 2.02
+  Date03_Sub04_keyboard_move.0: 1.67
+  Date03_Sub04_keyboard_move.2: 1.65
+  Date03_Sub04_keyboard_move.1: 1.63
+  Date03_Sub04_keyboard_move.3: 1.78
+  Date03_Sub04_tablesmall_hand.1: 1.97
+  Date03_Sub04_tablesmall_hand.0: 1.64
+  Date03_Sub04_tablesmall_hand.3: 2.02
+  Date03_Sub04_tablesmall_hand.2: 1.96
+  Date03_Sub04_stool_move.1: 2.04
+  Date03_Sub04_stool_move.0: 1.98
+  Date03_Sub04_stool_move.3: 2.03
+  Date03_Sub04_stool_move.2: 2.05
+  Date03_Sub05_stool.1: 1.92
+  Date03_Sub05_stool.3: 2.12
+  Date03_Sub05_stool.2: 1.89
+  Date03_Sub05_stool.0: 2.06
+  Date03_Sub03_toolbox.0: 1.94
+  Date03_Sub03_toolbox.1: 1.96
+  Date03_Sub03_toolbox.2: 1.93
+  Date03_Sub03_toolbox.3: 1.93
+  Date03_Sub03_basketball.3: 1.72
+  Date03_Sub03_basketball.2: 1.97
+  Date03_Sub03_basketball.0: 1.96
+  Date03_Sub03_basketball.1: 1.96
+  Date03_Sub04_chairblack_liftreal.1: 2.11
+  Date03_Sub04_chairblack_liftreal.0: 2.21
+  Date03_Sub04_chairblack_liftreal.2: 2.10
+  Date03_Sub04_chairblack_liftreal.3: 2.00
+  Date03_Sub04_yogamat.2: 2.21
+  Date03_Sub04_yogamat.0: 2.00
+  Date03_Sub04_yogamat.1: 2.15
+  Date03_Sub04_yogamat.3: 2.08
+  Date03_Sub03_boxtiny.0: 1.79
+  Date03_Sub03_boxtiny.2: 1.76
+  Date03_Sub03_boxtiny.1: 1.76
+  Date03_Sub03_boxtiny.3: 1.81
+  Date03_Sub04_keyboard_typing.1: 1.94
+  Date03_Sub04_keyboard_typing.2: 2.03
+  Date03_Sub04_keyboard_typing.3: 1.94
+  Date03_Sub04_keyboard_typing.0: 1.95
+  Date03_Sub04_yogaball_sit.2: 2.07
+  Date03_Sub04_yogaball_sit.3: 1.97
+  Date03_Sub04_yogaball_sit.1: 2.06
+  Date03_Sub04_yogaball_sit.0: 1.87
+  Date03_Sub04_chairblack_sit.3: 2.07
+  Date03_Sub04_chairblack_sit.2: 2.06
+  Date03_Sub04_chairblack_sit.1: 2.05
+  Date03_Sub04_chairblack_sit.0: 1.81
+  Date03_Sub03_stool_sit.3: 2.23
+  Date03_Sub03_stool_sit.2: 2.30
+  Date03_Sub03_stool_sit.1: 2.32
+  Date03_Sub03_stool_sit.0: 2.30
+  Date03_Sub03_chairblack_sitstand.3: 2.06
+  Date03_Sub03_chairblack_sitstand.1: 1.82
+  Date03_Sub03_chairblack_sitstand.0: 1.84
+  Date03_Sub03_chairblack_sitstand.2: 1.84
+  Date03_Sub04_chairwood_lift.1: 2.05
+  Date03_Sub04_chairwood_lift.0: 2.06
+  Date03_Sub04_chairwood_lift.3: 2.17
+  Date03_Sub04_chairwood_lift.2: 2.11
+  Date03_Sub04_boxmedium.3: 1.93
+  Date03_Sub04_boxmedium.1: 2.17
+  Date03_Sub04_boxmedium.0: 2.20
+  Date03_Sub04_boxmedium.2: 2.23
+  Date03_Sub04_boxlarge.1: 1.99
+  Date03_Sub04_boxlarge.0: 2.12
+  Date03_Sub04_boxlarge.2: 2.02
+  Date03_Sub04_boxlarge.3: 1.92
+  Date03_Sub03_suitcase_move.1: 1.85
+  Date03_Sub03_suitcase_move.3: 1.87
+  Date03_Sub03_suitcase_move.2: 1.86
+  Date03_Sub03_suitcase_move.0: 1.82
+  Date03_Sub04_backpack_hand.3: 2.00
+  Date03_Sub04_backpack_hand.2: 2.03
+  Date03_Sub04_backpack_hand.0: 2.12
+  Date03_Sub04_backpack_hand.1: 2.03
+  Date03_Sub03_trashbin.2: 1.89
+  Date03_Sub03_trashbin.0: 1.88
+  Date03_Sub03_trashbin.1: 1.89
+  Date03_Sub03_trashbin.3: 1.90
+  Date03_Sub05_boxmedium.2: 1.48
+  Date03_Sub05_boxmedium.1: 1.47
+  Date03_Sub05_boxmedium.3: 2.02
+  Date03_Sub05_boxmedium.0: 1.76
+  Date03_Sub03_monitor_move.3: 1.32
+  Date03_Sub03_monitor_move.1: 1.72
+  Date03_Sub03_monitor_move.0: 1.75
+  Date03_Sub03_monitor_move.2: 1.84
+  Date03_Sub05_chairwood.0: 2.02
+  Date03_Sub05_chairwood.2: 1.66
+  Date03_Sub05_chairwood.1: 1.68
+  Date03_Sub05_chairwood.3: 2.00
+  Date03_Sub05_monitor.3: 1.80
+  Date03_Sub05_monitor.1: 1.82
+  Date03_Sub05_monitor.2: 1.96
+  Date03_Sub05_monitor.0: 1.67
+  Date03_Sub05_keyboard.3: 1.68
+  Date03_Sub05_keyboard.0: 2.01
+  Date03_Sub05_keyboard.2: 1.95
+  Date03_Sub05_keyboard.1: 2.00
+  Date03_Sub04_chairwood_hand.1: 1.66
+  Date03_Sub04_chairwood_hand.0: 1.78
+  Date03_Sub04_chairwood_hand.3: 1.77
+  Date03_Sub04_chairwood_hand.2: 1.71
+  Date03_Sub05_basketball.0: 1.83
+  Date03_Sub05_basketball.1: 1.68
+  Date03_Sub05_basketball.2: 1.70
+  Date03_Sub05_basketball.3: 1.70
+  Date03_Sub04_trashbin.3: 1.99
+  Date03_Sub04_trashbin.1: 1.84
+  Date03_Sub04_trashbin.0: 1.86
+  Date03_Sub04_trashbin.2: 1.86
+  Date03_Sub03_tablesmall_move.0: 1.75
+  Date03_Sub03_tablesmall_move.2: 1.83
+  Date03_Sub03_tablesmall_move.3: 1.65
+  Date03_Sub03_tablesmall_move.1: 1.74
+  Date03_Sub03_chairwood_lift.2: 1.55
+  Date03_Sub03_chairwood_lift.3: 1.69
+  Date03_Sub03_chairwood_lift.1: 1.52
+  Date03_Sub03_chairwood_lift.0: 1.54
+  Date03_Sub04_tablesquare_sit.0: 2.00
+  Date03_Sub04_tablesquare_sit.1: 1.81
+  Date03_Sub04_tablesquare_sit.3: 1.74
+  Date03_Sub04_tablesquare_sit.2: 1.83
+  Date03_Sub03_chairwood_hand.0: 1.71
+  Date03_Sub03_chairwood_hand.3: 1.56
+  Date03_Sub03_chairwood_hand.1: 1.68
+  Date03_Sub03_chairwood_hand.2: 1.65
+  Date03_Sub04_stool_sit.3: 1.99
+  Date03_Sub04_stool_sit.1: 1.79
+  Date03_Sub04_stool_sit.0: 1.77
+  Date03_Sub04_stool_sit.2: 1.99
+  Date03_Sub03_chairblack_sit.3: 2.18
+  Date03_Sub03_chairblack_sit.2: 2.46
+  Date03_Sub03_chairblack_sit.1: 2.47
+  Date03_Sub03_chairblack_sit.0: 2.50
+  Date03_Sub05_yogamat.1: 1.77
+  Date03_Sub05_yogamat.0: 1.96
+  Date03_Sub05_yogamat.3: 1.82
+  Date03_Sub05_yogamat.2: 1.79
+  Date03_Sub05_suitcase.3: 1.62
+  Date03_Sub05_suitcase.0: 2.01
+  Date03_Sub05_suitcase.1: 1.84
+  Date03_Sub05_suitcase.2: 1.78
+  Date03_Sub04_tablesquare_hand.2: 2.08
+  Date03_Sub04_tablesquare_hand.1: 2.04
+  Date03_Sub04_tablesquare_hand.0: 2.02
+  Date03_Sub04_tablesquare_hand.3: 1.92
+  Date03_Sub03_yogaball_play.2: 1.87
+  Date03_Sub03_yogaball_play.1: 1.91
+  Date03_Sub03_yogaball_play.0: 1.91
+  Date03_Sub03_yogaball_play.3: 1.89
+  Date03_Sub04_boxsmall.0: 1.94
+  Date03_Sub04_boxsmall.2: 2.05
+  Date03_Sub04_boxsmall.1: 2.06
+  Date03_Sub04_boxsmall.3: 1.93
+  Date03_Sub04_tablesmall_lift.3: 1.93
+  Date03_Sub04_tablesmall_lift.1: 1.90
+  Date03_Sub04_tablesmall_lift.2: 1.93
+  Date03_Sub04_tablesmall_lift.0: 2.19
+  Date03_Sub04_chairwood_sit.2: 1.56
+  Date03_Sub04_chairwood_sit.0: 1.94
+  Date03_Sub04_chairwood_sit.1: 1.55
+  Date03_Sub04_chairwood_sit.3: 1.96
+  Date03_Sub05_boxtiny.0: 2.12
+  Date03_Sub05_boxtiny.3: 1.93
+  Date03_Sub05_boxtiny.1: 1.91
+  Date03_Sub05_boxtiny.2: 1.95
+  Date03_Sub05_tablesquare.2: 1.55
+  Date03_Sub05_tablesquare.0: 2.02
+  Date03_Sub05_tablesquare.3: 2.29
+  Date03_Sub05_tablesquare.1: 1.57
+  Date03_Sub04_toolbox.3: 1.97
+  Date03_Sub04_toolbox.1: 1.97
+  Date03_Sub04_toolbox.2: 1.93
+  Date03_Sub04_toolbox.0: 2.08
+  Date03_Sub05_boxsmall.2: 2.02
+  Date03_Sub05_boxsmall.3: 1.89
+  Date03_Sub05_boxsmall.1: 1.96
+  Date03_Sub05_boxsmall.0: 2.00
+  Date03_Sub03_backpack_back.0: 1.84
+  Date03_Sub03_backpack_back.3: 2.13
+  Date03_Sub03_backpack_back.1: 1.82
+  Date03_Sub03_backpack_back.2: 1.85
+  Date03_Sub03_keyboard_move.2: 1.63
+  Date03_Sub03_keyboard_move.0: 1.62
+  Date03_Sub03_keyboard_move.3: 1.58
+  Date03_Sub03_keyboard_move.1: 1.63
+  Date03_Sub04_monitor_hand.1: 2.45
+  Date03_Sub04_monitor_hand.0: 1.91
+  Date03_Sub04_monitor_hand.3: 1.72
+  Date03_Sub04_monitor_hand.2: 1.76
+  Date03_Sub04_tablesquare_lift.2: 1.77
+  Date03_Sub04_tablesquare_lift.3: 1.69
+  Date03_Sub04_tablesquare_lift.1: 1.79
+  Date03_Sub04_tablesquare_lift.0: 1.62
+  Date03_Sub04_basketball.0: 2.01
+  Date03_Sub04_basketball.3: 1.71
+  Date03_Sub04_basketball.2: 1.97
+  Date03_Sub04_basketball.1: 1.93
+  Date03_Sub03_backpack_hand.2: 1.79
+  Date03_Sub03_backpack_hand.1: 1.80
+  Date03_Sub03_backpack_hand.3: 1.96
+  Date03_Sub03_backpack_hand.0: 1.85
+  Date03_Sub04_yogaball_play.2: 1.64
+  Date03_Sub04_yogaball_play.3: 1.66
+  Date03_Sub04_yogaball_play.1: 1.64
+  Date03_Sub04_yogaball_play.0: 1.68
+  Date03_Sub03_boxlarge.0: 1.70
+  Date03_Sub03_boxlarge.3: 1.67
+  Date03_Sub03_boxlarge.1: 1.71
+  Date03_Sub03_boxlarge.2: 1.71
+  Date03_Sub03_yogamat.0: 1.88
+  Date03_Sub03_yogamat.2: 1.89
+  Date03_Sub03_yogamat.1: 1.92
+  Date03_Sub03_yogamat.3: 1.73
+  Date03_Sub04_suitcase_lift.0: 2.06
+  Date03_Sub04_suitcase_lift.1: 2.03
+  Date03_Sub04_suitcase_lift.2: 2.03
+  Date03_Sub04_suitcase_lift.3: 1.89
+  Date03_Sub03_chairblack_hand.0: 1.60
+  Date03_Sub03_chairblack_hand.2: 1.58
+  Date03_Sub03_chairblack_hand.3: 1.66
+  Date03_Sub03_chairblack_hand.1: 1.60
+  Date03_Sub03_tablesmall_lean.3: 2.13
+  Date03_Sub03_tablesmall_lean.1: 2.11
+  Date03_Sub03_tablesmall_lean.0: 2.10
+  Date03_Sub03_tablesmall_lean.2: 2.11
+  Date03_Sub04_suitcase_ground.1: 1.61
+  Date03_Sub04_suitcase_ground.2: 1.64
+  Date03_Sub04_suitcase_ground.0: 1.60
+  Date03_Sub04_suitcase_ground.3: 2.01
+  Date03_Sub05_backpack.0: 1.74
+  Date03_Sub05_backpack.1: 1.85
+  Date03_Sub05_backpack.2: 1.79
+  Date03_Sub05_backpack.3: 2.06
+  Date03_Sub05_toolbox.2: 1.91
+  Date03_Sub05_toolbox.1: 1.91
+  Date03_Sub05_toolbox.0: 2.08
+  Date03_Sub05_toolbox.3: 2.22
+  Date03_Sub03_stool_lift.3: 2.05
+  Date03_Sub03_stool_lift.2: 1.88
+  Date03_Sub03_stool_lift.0: 1.88
+  Date03_Sub03_stool_lift.1: 1.94
+  Date03_Sub04_boxlong.1: 1.45
+  Date03_Sub04_boxlong.0: 2.02
+  Date03_Sub04_boxlong.3: 2.16
+  Date03_Sub04_boxlong.2: 1.62
+  Date03_Sub03_keyboard_typing.3: 1.77
+  Date03_Sub03_keyboard_typing.2: 1.57
+  Date03_Sub03_keyboard_typing.1: 1.58
+  Date03_Sub03_keyboard_typing.0: 1.71
+  Date03_Sub04_monitor_move.3: 2.11
+  Date03_Sub04_monitor_move.2: 2.06
+  Date03_Sub04_monitor_move.1: 2.10
+  Date03_Sub04_monitor_move.0: 2.14
+  Date03_Sub05_plasticcontainer.3: 1.80
+  Date03_Sub05_plasticcontainer.2: 1.74
+  Date03_Sub05_plasticcontainer.1: 1.75
+  Date03_Sub05_plasticcontainer.0: 1.76
+  Date03_Sub03_plasticcontainer.3: 2.05
+  Date03_Sub03_plasticcontainer.1: 1.84
+  Date03_Sub03_plasticcontainer.0: 1.88
+  Date03_Sub03_plasticcontainer.2: 1.83
+  Date03_Sub03_tablesquare_lift.2: 1.71
+  Date03_Sub03_tablesquare_lift.3: 1.70
+  Date03_Sub03_tablesquare_lift.1: 1.75
+  Date03_Sub03_tablesquare_lift.0: 1.75
+  Date03_Sub03_chairblack_lift.1: 1.82
+  Date03_Sub03_chairblack_lift.0: 1.83
+  Date03_Sub03_chairblack_lift.3: 1.71
+  Date03_Sub03_chairblack_lift.2: 1.85
+  Date03_Sub05_yogaball.3: 1.73
+  Date03_Sub05_yogaball.2: 1.86
+  Date03_Sub05_yogaball.1: 1.92
+  Date03_Sub05_yogaball.0: 1.62
+  Date03_Sub04_chairblack_hand.0: 1.82
+  Date03_Sub04_chairblack_hand.3: 1.68
+  Date03_Sub04_chairblack_hand.2: 1.85
+  Date03_Sub04_chairblack_hand.1: 1.85
+  Date03_Sub05_boxlong.3: 1.99
+  Date03_Sub05_boxlong.2: 1.98
+  Date03_Sub05_boxlong.1: 2.01
+  Date03_Sub05_boxlong.0: 1.52
+  Date03_Sub03_suitcase_lift.3: 2.13
+  Date03_Sub03_suitcase_lift.1: 1.93
+  Date03_Sub03_suitcase_lift.0: 1.92
+  Date03_Sub03_suitcase_lift.2: 1.94
+  Date03_Sub05_trashbin.1: 1.71
+  Date03_Sub05_trashbin.3: 1.68
+  Date03_Sub05_trashbin.2: 1.72
+  Date03_Sub05_trashbin.0: 1.71
+  Date03_Sub04_plasticcontainer_lift.1: 1.90
+  Date03_Sub04_plasticcontainer_lift.3: 1.91
+  Date03_Sub04_plasticcontainer_lift.2: 1.94
+  Date03_Sub04_plasticcontainer_lift.0: 1.95
+  Date03_Sub03_boxsmall.2: 1.77
+  Date03_Sub03_boxsmall.3: 1.80
+  Date03_Sub03_boxsmall.1: 1.78
+  Date03_Sub03_boxsmall.0: 1.77
+  Date03_Sub03_backpack_hug.1: 1.88
+  Date03_Sub03_backpack_hug.3: 1.97
+  Date03_Sub03_backpack_hug.0: 1.84
+  Date03_Sub03_backpack_hug.2: 1.86
+  Date03_Sub05_boxlarge.3: 2.09
+  Date03_Sub05_boxlarge.1: 1.88
+  Date03_Sub05_boxlarge.2: 1.95
+  Date03_Sub05_boxlarge.0: 1.85
+  Date03_Sub04_boxtiny.2: 2.17
+  Date03_Sub04_boxtiny.1: 2.20
+  Date03_Sub04_boxtiny.0: 2.13
+  Date03_Sub04_boxtiny.3: 1.99
+  Date03_Sub04_tablesmall_lean.3: 1.67
+  Date03_Sub04_tablesmall_lean.2: 1.69
+  Date03_Sub04_tablesmall_lean.0: 2.06
+  Date03_Sub04_tablesmall_lean.1: 1.65
+  Date03_Sub03_tablesmall_lift.3: 2.03
+  Date03_Sub03_tablesmall_lift.0: 1.95
+  Date03_Sub03_tablesmall_lift.2: 1.94
+  Date03_Sub03_tablesmall_lift.1: 1.94
+  Date03_Sub03_tablesquare_sit.3: 2.18
+  Date03_Sub03_tablesquare_sit.0: 2.17
+  Date03_Sub03_tablesquare_sit.2: 2.19
+  Date03_Sub03_tablesquare_sit.1: 2.19
+  Date03_Sub03_yogaball_sit.3: 2.10
+  Date03_Sub03_yogaball_sit.2: 2.23
+  Date03_Sub03_yogaball_sit.1: 2.24
+  Date03_Sub03_yogaball_sit.0: 2.23
+  Date03_Sub05_tablesmall.3: 1.77
+  Date03_Sub05_tablesmall.0: 1.92
+  Date03_Sub05_tablesmall.1: 1.88
+  Date03_Sub05_tablesmall.2: 1.87
+  Date03_Sub03_tablesquare_move.0: 1.56
+  Date03_Sub03_tablesquare_move.1: 1.60
+  Date03_Sub03_tablesquare_move.2: 1.57
+  Date03_Sub03_tablesquare_move.3: 1.55
+  Date03_Sub03_chairwood_sit.1: 2.46
+  Date03_Sub03_chairwood_sit.0: 2.46
+  Date03_Sub03_chairwood_sit.3: 2.21
+  Date03_Sub03_chairwood_sit.2: 2.44
+  Date03_Sub03_boxlong.0: 1.70
+  Date03_Sub03_boxlong.2: 1.71
+  Date03_Sub03_boxlong.3: 2.05
+  Date03_Sub03_boxlong.1: 1.70
+  Date03_Sub04_backpack_hug.0: 2.18
+  Date03_Sub04_backpack_hug.1: 2.21
+  Date03_Sub04_backpack_hug.2: 2.18
+  Date03_Sub04_backpack_hug.3: 2.25
+
+Overall average v2v error: 1.90
